@@ -1,0 +1,1586 @@
+[
+  {
+    "name": "杠铃平板卧推",
+    "name_en": "Barbell Flat Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 6.0,
+    "description": "经典的上肢复合推力动作，主要锻炼胸大肌中部，同时协同三头肌和三角肌前束发力。",
+    "instructions": [
+      "仰卧于平板凳上，双脚平稳踩地，眼睛位于杠铃杆正下方",
+      "双手略宽于肩握住杠铃，收紧肩胛骨，挺胸收腹",
+      "下放杠铃至胸部中下位置（乳头连线处），保持手腕直立，肘部约45度外展",
+      "触胸后用力推起杠铃至手臂伸直但不过度锁死，顶峰收缩胸肌",
+      "全程控制节奏，下放约2秒，推起约1秒，保持核心紧绷"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "哑铃平板卧推",
+    "name_en": "Dumbbell Flat Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "dumbbell",
+    "exercise_type": "compound",
+    "met_value": 5.5,
+    "description": "哑铃卧推提供更大的活动范围，允许手腕自然旋转，对肩关节更友好，同时能更好地激活胸部稳定肌群。",
+    "instructions": [
+      "坐于平板凳边缘，将哑铃竖放在大腿上，后仰躺下的同时用腿将哑铃推举至胸部上方",
+      "收紧肩胛骨，挺胸，双脚踩稳地面",
+      "缓慢下放哑铃至胸部两侧，感受胸肌拉伸，肘部约呈45度角",
+      "推起时保持哑铃向内靠拢的趋势，在顶端哑铃接近但不接触",
+      "注意顶端收缩胸肌，全程保持肩胛骨收紧，避免耸肩"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "上斜杠铃卧推",
+    "name_en": "Incline Barbell Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders", "triceps"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 6.0,
+    "description": "板凳角度调整至30-45度，重点刺激胸肌上部（锁骨部）和三角肌前束，是打造饱满上胸的必备动作。",
+    "instructions": [
+      "将板凳调整至30-45度倾角，仰卧后双脚踩地",
+      "双手略宽于肩握住杠铃，收紧肩胛骨",
+      "下放杠铃至上胸部（锁骨下方），控制速度",
+      "触胸后发力推起，杠铃轨迹略呈弧线",
+      "顶峰收缩上胸，注意不要过度锁死肘关节"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "上斜哑铃卧推",
+    "name_en": "Incline Dumbbell Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders", "triceps"],
+    "equipment": "dumbbell",
+    "exercise_type": "compound",
+    "met_value": 5.5,
+    "description": "兼具上斜角度优势与哑铃自由活动范围优势，对胸肌上部刺激极佳，且能有效解决两侧力量不平衡问题。",
+    "instructions": [
+      "将板凳调至30-45度，坐姿后将哑铃置于大腿",
+      "后仰同时用腿助力将哑铃推至肩部上方",
+      "收紧肩胛骨，缓慢下放哑铃至胸部两侧",
+      "推起时哑铃保持向内聚拢趋势，顶端接近但不互碰",
+      "专注上胸收缩感，控制离心阶段3秒以上"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "下斜卧推",
+    "name_en": "Decline Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 5.8,
+    "description": "板凳调整至下斜角度，重点刺激胸肌下部，杠铃轨迹更短，通常能使用更大的重量。需注意安全保护。",
+    "instructions": [
+      "将板凳调整至下斜15-30度，固定好双脚",
+      "双手略宽于肩握住杠铃，出杠后杠铃位于下胸上方",
+      "缓慢下放杠铃至胸肌下部接近肋骨位置",
+      "触胸后发力推起，保持稳定节奏",
+      "建议使用保护架或有训练伙伴辅助，确保安全"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "哑铃飞鸟",
+    "name_en": "Dumbbell Flyes",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "dumbbell",
+    "exercise_type": "isolation",
+    "met_value": 4.5,
+    "description": "经典的胸部孤立动作，通过水平内收动作最大化胸肌拉伸与收缩，适合作为卧推后的辅助训练。",
+    "instructions": [
+      "仰卧于平板凳，双手持哑铃置于胸部正上方，掌心相对",
+      "微弯肘部并保持角度不变，如同抱树状",
+      "缓慢向两侧打开手臂，感受胸肌充分拉伸",
+      "拉伸至胸部有明显牵拉感时，用力夹胸回到起始位置",
+      "全程保持肘部微弯角度不变，想象胸部发力而非手臂"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "绳索夹胸",
+    "name_en": "Cable Crossover",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "cable",
+    "exercise_type": "isolation",
+    "met_value": 4.0,
+    "description": "利用龙门架绳索进行多角度夹胸训练，提供持续张力，可通过调整滑轮高度分别刺激上、中、下胸。",
+    "instructions": [
+      "将龙门架滑轮调至高位（或中位/低位），双手各持一个D型手柄",
+      "身体略前倾站立在龙门架中间，一脚前一脚后保持稳定",
+      "保持肘部微弯，手臂从身体两侧向前下方夹合",
+      "双手在身体前方汇合时挤压胸肌1-2秒",
+      "缓慢控制回程，感受胸肌拉伸，全程绳索保持张力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "蝴蝶机夹胸",
+    "name_en": "Pec Deck Machine",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "machine",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "坐姿固定器械夹胸，动作轨迹固定且安全，适合初学者学习胸部发力感，也适合训练尾声进行充血训练。",
+    "instructions": [
+      "调整座椅高度使手臂握把时肘部与肩膀齐平",
+      "背部紧贴椅背，前臂放置在靠垫上",
+      "用力将两侧靠垫向中间夹合，顶峰收缩胸肌",
+      "缓慢控制还原至起始位置，不要完全放松",
+      "保持呼吸节奏，夹胸时呼气，还原时吸气"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "俯卧撑",
+    "name_en": "Push-up",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders", "abs"],
+    "equipment": "bodyweight",
+    "exercise_type": "bodyweight",
+    "met_value": 5.0,
+    "description": "最基础但高效的徒手推力动作，无需任何器械，随时随地可练。通过调整手距可侧重不同肌肉。",
+    "instructions": [
+      "双手略宽于肩撑地，身体呈一条直线，收紧臀部和腹部",
+      "头部保持中立位，眼睛看地面",
+      "缓慢下放身体至胸部接近地面，肘部约45度外展",
+      "用力推起身体回到起始位置，顶峰收缩胸肌",
+      "全程保持身体绷直，不塌腰不撅臀"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "双杠臂屈伸",
+    "name_en": "Parallel Bar Dips",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["triceps", "shoulders"],
+    "equipment": "bodyweight",
+    "exercise_type": "compound",
+    "met_value": 5.5,
+    "description": "利用双杠进行的上肢复合推力动作，身体前倾侧重胸肌，身体直立侧重三头肌，可负重增加强度。",
+    "instructions": [
+      "双手握住双杠，手臂伸直撑起身体",
+      "身体略前倾（约30度），屈膝或交叉双脚",
+      "缓慢弯曲肘部下放身体，感受胸肌拉伸",
+      "下降至肩部低于肘部或胸肌有明显拉伸感时停止",
+      "发力推起身体至起始位置，注意不要锁死肘关节"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "引体向上",
+    "name_en": "Pull-up",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders"],
+    "equipment": "bodyweight",
+    "exercise_type": "compound",
+    "met_value": 8.0,
+    "description": "最经典的上肢拉力动作，主要锻炼背阔肌宽度，是衡量上肢力量的重要指标。正握宽距侧重背部，反握窄距侧重二头肌。",
+    "instructions": [
+      "双手正握（掌心朝前）略宽于肩抓住单杠，手臂完全伸直",
+      "收紧肩胛骨，挺胸，核心收紧",
+      "背部发力将身体拉向单杠，下巴过杠即可",
+      "顶峰收缩背阔肌1-2秒",
+      "缓慢控制下放至手臂伸直，全程保持身体稳定不摆动"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "杠铃划船",
+    "name_en": "Barbell Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 6.5,
+    "description": "增加背部厚度和力量的王牌动作，分为俯身划船和潘德雷两种变式，能同时训练背阔肌、斜方肌和菱形肌。",
+    "instructions": [
+      "双脚与髋同宽站立，正手握住杠铃",
+      "屈髋俯身，上身与地面约呈45-60度角，保持背部平直",
+      "杠铃从膝盖下方沿大腿方向拉向腹部",
+      "顶峰收缩背部肌肉1-2秒，肘部朝上朝后走",
+      "缓慢下放杠铃至手臂伸直，全程保持核心收紧，背部不弓"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "哑铃单臂划船",
+    "name_en": "Dumbbell One-Arm Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps"],
+    "equipment": "dumbbell",
+    "exercise_type": "compound",
+    "met_value": 5.0,
+    "description": "单侧背部训练动作，可纠正左右背部肌肉不平衡，活动范围大，对背阔肌下部的刺激尤为明显。",
+    "instructions": [
+      "单膝跪在平板凳上，同侧手支撑身体，另一只脚踩地",
+      "对侧手握住哑铃，手臂自然下垂，保持背部平直",
+      "将哑铃沿身体侧面拉向髋部，肘部贴近身体",
+      "顶峰收缩背阔肌，感受背部发力而非手臂",
+      "缓慢下放哑铃至手臂完全伸展，全程控制"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "坐姿绳索划船",
+    "name_en": "Seated Cable Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps"],
+    "equipment": "cable",
+    "exercise_type": "compound",
+    "met_value": 4.5,
+    "description": "利用低位滑轮进行水平划船动作，全程保持持续张力，对菱形肌和中背部刺激极大，使用V柄或直杆均可。",
+    "instructions": [
+      "坐于划船机上，双脚踩住踏板，膝盖微弯",
+      "双手握住V型手柄，挺胸收腹，保持背部直立",
+      "将手柄拉向腹部，肘部紧贴身体向后移动",
+      "顶峰收缩背部中央肌肉1-2秒",
+      "缓慢还原，保持身体不前倾，全程感受背部发力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "高位下拉",
+    "name_en": "Lat Pulldown",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps", "shoulders"],
+    "equipment": "cable",
+    "exercise_type": "compound",
+    "met_value": 5.5,
+    "description": "模拟引体向上的拉类动作，可调整重量适应不同训练水平，宽握距刺激背阔肌宽度，窄握距增加活动范围。",
+    "instructions": [
+      "调整大腿固定垫至合适高度，坐稳后大腿卡紧",
+      "正握略宽于肩握住横杆，手臂完全伸展",
+      "背部发力将横杆拉向上胸部，身体略后倾约15度",
+      "顶峰收缩背部肌肉，注意不要用腰部借力",
+      "缓慢控制横杆上升至手臂伸直，感受背阔肌拉伸"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "传统硬拉",
+    "name_en": "Conventional Deadlift",
+    "primary_muscle": "back",
+    "secondary_muscles": ["glutes", "legs"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 8.0,
+    "description": "力量训练三大项之一，调动全身大部分肌肉群，是发展整体力量和肌肉量最有效的动作之一。",
+    "instructions": [
+      "双脚与髋同宽站立，杠铃位于脚中上方，小腿靠近杠铃杆",
+      "屈髋俯身，双手置于小腿外侧握住杠铃，手臂伸直",
+      "挺胸、收紧背部和核心，臀部下沉至适当起始位置",
+      "脚踩地面发力，同时伸膝伸髋，将杠铃沿小腿拉起",
+      "站直后收紧臀部，不要过度后仰，下放时先屈髋再屈膝"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "罗马尼亚硬拉",
+    "name_en": "Romanian Deadlift (RDL)",
+    "primary_muscle": "back",
+    "secondary_muscles": ["glutes", "legs"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 6.0,
+    "description": "侧重于腘绳肌和臀部的硬拉变式，以屈髋为主，膝盖微弯保持固定，对竖脊肌和下背肌群的训练效果显著。",
+    "instructions": [
+      "双脚与髋同宽站立，双手握住杠铃，站直",
+      "膝盖微弯并保持角度不变，核心收紧",
+      "以髋关节为轴，臀部向后推，杠铃沿大腿下行",
+      "下降至腘绳肌有明显拉伸感即可（约膝盖下方）",
+      "发力将臀部向前推回到起始位置，顶峰收缩臀肌"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "直臂下压",
+    "name_en": "Straight-Arm Pulldown",
+    "primary_muscle": "back",
+    "secondary_muscles": ["triceps"],
+    "equipment": "cable",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "利用高位滑轮进行直臂下压，最大化隔离背阔肌，是练背训练的优秀收尾动作，能带来极强的背部泵感。",
+    "instructions": [
+      "面对龙门架高位滑轮站立，双手正握直杆或绳索",
+      "手臂伸直（微弯不锁死），身体略前倾",
+      "保持手臂伸直，将横杆沿弧线向下压至大腿前",
+      "顶峰收缩背阔肌1-2秒",
+      "缓慢控制还原，感受背阔肌拉伸，全程手臂保持伸直"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "面拉",
+    "name_en": "Face Pull",
+    "primary_muscle": "back",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "cable",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "重要的肩袖肌群和后束训练动作，对改善圆肩、预防肩部伤病非常有效，是肩部健康的必备训练动作。",
+    "instructions": [
+      "将龙门架滑轮调至面部高度，连接绳索手柄",
+      "双手拿住绳索两端，向后走几步产生张力",
+      "将绳索拉向面部，同时向外旋转手臂使手背朝后",
+      "顶峰收缩后束和菱形肌，肘部向后向外打开",
+      "缓慢还原，全程控制，重量不宜过大，注重收缩质量"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "T杠划船",
+    "name_en": "T-Bar Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 6.0,
+    "description": "使用T型杠铃杆或用地雷架进行的划船动作，能使用较大重量，对中背部厚度和背阔肌下部的发展效果拔群。",
+    "instructions": [
+      "将杠铃一端固定在地雷架或墙角，另一端加载杠铃片",
+      "跨立在杠铃两侧，使用V柄或双手握住杠铃杆末端",
+      "保持背部平直，屈髋俯身约45度",
+      "将杠铃拉向上腹部，肘部朝后上方移动",
+      "顶峰收缩背部后缓慢下放，全程保持核心收紧"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "潘德雷划船",
+    "name_en": "Pendlay Row",
+    "primary_muscle": "back",
+    "secondary_muscles": ["biceps"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 6.5,
+    "description": "严格版的俯身杠铃划船，每次动作都从地面起始，强调爆发性拉起和严格姿势，是力量举中重要的辅助训练。",
+    "instructions": [
+      "双脚与髋同宽站立，俯身上身与地面平行",
+      "正手略宽于肩握住杠铃，从地面起始",
+      "爆发性将杠铃拉向胸口下方，肘部向上方移动",
+      "顶端短暂收缩后，控制将杠铃放回地面",
+      "每次都在地面完全停住再拉起，消除回弹借力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "山羊挺身",
+    "name_en": "Back Extension (Hyperextension)",
+    "primary_muscle": "back",
+    "secondary_muscles": ["glutes"],
+    "equipment": "bodyweight",
+    "exercise_type": "isolation",
+    "met_value": 4.0,
+    "description": "在罗马椅/山羊凳上进行的下背部孤立训练，强化竖脊肌、预防下背痛，也可负重增加强度。",
+    "instructions": [
+      "调整罗马椅使髋部位于垫子边缘上方，脚后跟卡紧",
+      "身体呈一条直线，双手交叉放胸前或头后",
+      "缓慢屈髋下放身体，保持背部平直",
+      "下降至腘绳肌有拉伸感或上身与地面约90度",
+      "发力抬起上身回到起始位置，不要过度后仰"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "杠铃深蹲",
+    "name_en": "Barbell Back Squat",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes", "back", "abs"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 8.0,
+    "description": "力量训练三大项之王，锻炼整个下肢肌群，包括股四头肌、腘绳肌和臀大肌，同时强化核心稳定性。",
+    "instructions": [
+      "杠铃置于深蹲架约锁骨高度，钻入杠铃下方将其置于斜方肌上",
+      "双手握住杠铃两侧，双脚略宽于肩，脚尖略朝外",
+      "起杠后后退两步，收紧核心，挺胸，目视前方",
+      "缓慢下蹲至大腿与地面平行或更低，膝盖方向与脚尖一致",
+      "脚后跟发力站起，膝盖不要内扣，全程保持背部挺直"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "前蹲",
+    "name_en": "Front Squat",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes", "abs", "back"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 7.5,
+    "description": "杠铃置于锁骨前侧的深蹲变式，更强调股四头肌，同时对核心力量和上背活动度要求更高。",
+    "instructions": [
+      "杠铃置于锁骨和三角肌前束上，手指轻托杠铃，肘部抬高指向前方",
+      "双脚与肩同宽，脚尖略朝外",
+      "保持肘部抬高，上身挺直，核心收紧",
+      "下蹲至大腿至少与地面平行，保持肘部不下垂",
+      "发力站起，全程保持胸前挺起，不要前倾"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "高脚杯深蹲",
+    "name_en": "Goblet Squat",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes", "abs"],
+    "equipment": "dumbbell",
+    "exercise_type": "compound",
+    "met_value": 5.5,
+    "description": "手捧哑铃或壶铃进行深蹲，是新手学习深蹲模式的绝佳入门动作，能自然纠正姿势，同时强化上半身参与。",
+    "instructions": [
+      "双手捧着哑铃一端（或壶铃），将其竖直置于胸前",
+      "双脚略宽于肩，脚尖略朝外",
+      "保持上身挺直，肘部贴近身体",
+      "下蹲至大腿与地面平行或更低，肘部可触碰膝盖内侧",
+      "发力站起，全程保持哑铃紧贴身体，核心收紧"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "腿举",
+    "name_en": "Leg Press",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes"],
+    "equipment": "machine",
+    "exercise_type": "compound",
+    "met_value": 6.0,
+    "description": "坐姿或斜躺推举平台，能使用极大重量，是增加腿部整体肌肉量的高效器械，尤其适合腰背有伤无法做深蹲的人群。",
+    "instructions": [
+      "坐入腿举机，双脚与肩同宽置于踏板上方",
+      "解锁安全扣，屈膝将踏板降至约90度",
+      "全脚掌发力将踏板推起，膝盖不要锁死",
+      "控制下放速度，约2-3秒完成离心阶段",
+      "注意脚位：高位偏臀和腘绳肌，低位偏股四头肌"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "哈克深蹲",
+    "name_en": "Hack Squat",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes"],
+    "equipment": "machine",
+    "exercise_type": "compound",
+    "met_value": 6.0,
+    "description": "在哈克深蹲机上进行的固定轨迹深蹲，轨迹稳定安全，对股四头肌的隔离刺激效果优于自由深蹲。",
+    "instructions": [
+      "背靠哈克机斜板，双肩顶住肩垫",
+      "双脚略宽于肩置于踏板上，脚尖略朝外",
+      "解锁安全扣，缓慢屈膝下蹲至约90度或更低",
+      "发力站起至膝盖微弯，不要锁死",
+      "全程保持背部贴紧斜板，核心收紧"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "保加利亚分腿蹲",
+    "name_en": "Bulgarian Split Squat",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes", "abs"],
+    "equipment": "dumbbell",
+    "exercise_type": "compound",
+    "met_value": 7.0,
+    "description": "后脚架高的单腿深蹲，极大增加不稳定性从而强化核心和平衡能力，是纠正双腿力量不平衡的利器。",
+    "instructions": [
+      "将后脚脚背或脚尖放在身后的平板凳上",
+      "双手各持哑铃，前脚向前迈出足够距离",
+      "保持上身直立，缓慢下蹲至前大腿与地面平行",
+      "前脚后跟发力站起，膝盖不要超过脚尖过多",
+      "全程保持核心收紧维持平衡，后腿仅起辅助支撑"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "弓步蹲",
+    "name_en": "Walking Lunges",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes", "abs"],
+    "equipment": "dumbbell",
+    "exercise_type": "compound",
+    "met_value": 6.5,
+    "description": "动态的下肢训练动作，可以行进或原地进行，全面刺激股四头肌、腘绳肌和臀大肌，同时考验平衡和协调能力。",
+    "instructions": [
+      "双手各持哑铃（或徒手），自然站立",
+      "向前迈出一大步，后膝弯曲下降低至接近地面但不触地",
+      "前脚后跟发力站起，后腿跟上并拢",
+      "交替迈出对侧腿重复动作",
+      "全程保持上身直立，核心收紧，膝盖不内扣"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "腿屈伸",
+    "name_en": "Leg Extension",
+    "primary_muscle": "legs",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "坐姿股四头肌孤立训练，对膝关节周围肌肉雕塑效果极佳，常作为深蹲或腿举后的补充训练。",
+    "instructions": [
+      "坐入腿屈伸机，调整靠背使膝关节对准转轴",
+      "脚踝卡在滚垫前方，双手握住两侧把手",
+      "用力伸直双腿至完全伸展，顶峰收缩1-2秒",
+      "缓慢控制屈膝下放，重量片不触碰",
+      "脚尖可朝内或朝外微调以侧重股四头肌不同区域"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "坐姿腿弯举",
+    "name_en": "Seated Leg Curl",
+    "primary_muscle": "legs",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "坐姿进行的腘绳肌孤立训练，对腘绳肌的短头（股二头肌短头）刺激优于俯卧版本。",
+    "instructions": [
+      "坐入坐姿腿弯举机，调整靠背和脚踝垫至合适位置",
+      "脚踝置于滚垫上方，大腿用固定垫压紧",
+      "用力弯曲膝盖将滚垫向后下方拉",
+      "顶峰收缩腘绳肌1-2秒",
+      "缓慢控制伸展膝盖回到起始位置"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "俯卧腿弯举",
+    "name_en": "Lying Leg Curl",
+    "primary_muscle": "legs",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "俯卧姿势的腘绳肌孤立训练，对腘绳肌长头刺激效果最佳，是腿部训练日中不可或缺的辅助动作。",
+    "instructions": [
+      "俯卧于腿弯举机上，膝关节对准转轴",
+      "脚踝卡在滚垫下方，双手握住两侧把手",
+      "弯曲膝盖将滚垫向臀部方向拉起",
+      "顶峰收缩腘绳肌1-2秒",
+      "缓慢控制伸展膝盖，全程臀部不要翘起"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "站姿提踵",
+    "name_en": "Standing Calf Raise",
+    "primary_muscle": "legs",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "exercise_type": "isolation",
+    "met_value": 3.0,
+    "description": "站姿腓肠肌训练，主要发展小腿后侧的厚度和力量，对弹跳力和跑步表现有直接帮助。",
+    "instructions": [
+      "站在提踵机上，肩膀顶住肩垫，前脚掌踩在踏板上",
+      "保持膝盖伸直但不锁死",
+      "用力踮起脚尖至最高点，顶峰收缩腓肠肌1-2秒",
+      "缓慢下放脚跟至低于踏板平面，充分拉伸小腿",
+      "全程保持节奏稳定，可尝试在顶端和底端各停顿1秒"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "坐姿提踵",
+    "name_en": "Seated Calf Raise",
+    "primary_muscle": "legs",
+    "secondary_muscles": [],
+    "equipment": "machine",
+    "exercise_type": "isolation",
+    "met_value": 3.0,
+    "description": "坐姿比目鱼肌训练，膝盖弯曲时腓肠肌被抑制，能更好地隔离比目鱼肌，是全面小腿训练的必要补充。",
+    "instructions": [
+      "坐入坐姿提踵机，将大腿固定垫调整至膝盖上方",
+      "前脚掌踩在踏板上，膝盖弯曲约90度",
+      "用力踮脚尖至最高点，顶峰收缩1-2秒",
+      "缓慢下放脚跟低于踏板平面",
+      "高次数（15-25次）训练小腿效果更佳"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "相扑硬拉",
+    "name_en": "Sumo Deadlift",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["back", "glutes"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 8.0,
+    "description": "宽站距的硬拉变式，缩短了杠铃移动距离，更强调股四头肌和内收肌群参与，力量举中很多选手选择相扑站姿。",
+    "instructions": [
+      "双脚宽距站立，脚尖外展约45度，杠铃紧贴小腿",
+      "屈膝屈髋，正手或正反手握住杠铃，手臂伸直",
+      "挺胸，沉肩，背部收紧，臀部下沉",
+      "双腿蹬地发力，将杠铃沿小腿内侧拉起",
+      "站直后收紧臀部，在顶端停顿后控制下放"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "臀推",
+    "name_en": "Hip Thrust",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 5.0,
+    "description": "背部靠在平板凳上的臀部主导推举动作，是发展臀大肌的王牌动作，可使用大重量，对臀部力量和形态改善效果显著。",
+    "instructions": [
+      "上背部靠在平板凳边缘，杠铃横置于髋部，双手扶稳",
+      "双脚踩地，膝盖弯曲约90度，下巴微收",
+      "发力将臀部向上推至身体呈一条直线（髋部完全伸展）",
+      "顶峰收缩臀大肌2-3秒",
+      "缓慢下放臀部至接近地面，保持控制"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "杠铃站姿推举",
+    "name_en": "Barbell Overhead Press (OHP)",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps", "abs"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 6.5,
+    "description": "上肢力量训练三大项之外的第四大王牌动作，站姿推举对手臂、肩部和核心力量要求极高，是衡量上肢推力能力的重要指标。",
+    "instructions": [
+      "双脚与肩同宽站立，正手握杠铃置于锁骨前方",
+      "收紧臀部和核心，形成稳定的力量传导基础",
+      "将杠铃垂直推过头顶至手臂伸直，头部略后让路",
+      "手臂伸直后头部前移回到中立位",
+      "缓慢控制下放杠铃至锁骨，保持核心全程收紧不通气"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "哑铃坐姿推举",
+    "name_en": "Seated Dumbbell Shoulder Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps"],
+    "equipment": "dumbbell",
+    "exercise_type": "compound",
+    "met_value": 5.5,
+    "description": "坐姿减少了核心参与，更能专注于三角肌发力，哑铃允许更大的自然活动范围，对关节更友好。",
+    "instructions": [
+      "坐于有靠背的板凳上（调至接近垂直），双手持哑铃置于肩部两侧",
+      "收紧肩胛骨，挺胸，双脚踩稳地面",
+      "将哑铃向头顶推起，哑铃在顶端接近但不互碰",
+      "顶峰收缩三角肌，注意不要耸肩",
+      "缓慢控制下放哑铃至肩部两侧，保持张力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "侧平举",
+    "name_en": "Lateral Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "最重要的三角肌中束孤立动作，是打造宽阔肩膀宽度的核心训练，增肌期和备赛期都不可或缺。",
+    "instructions": [
+      "双脚与肩同宽站立，双手持哑铃置于身体两侧",
+      "肘部微弯并保持角度不变，身体略前倾",
+      "将哑铃向身体两侧抬至与肩齐平，如同倒水壶",
+      "顶峰收缩三角肌中束1-2秒",
+      "缓慢下放哑铃，全程控制，不要用身体摆动借力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "前平举",
+    "name_en": "Front Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "三角肌前束的孤立训练，由于推举类动作已充分刺激前束，前平举一般作为辅助或对称性训练使用。",
+    "instructions": [
+      "双脚与肩同宽站立，双手持哑铃置于大腿前方",
+      "保持肘部微弯，交替或同时将哑铃向前抬起",
+      "抬起至手臂与地面平行或略高即可",
+      "顶峰收缩三角肌前束1秒",
+      "缓慢控制下放，全程保持身体稳定不后仰"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "俯身侧平举",
+    "name_en": "Bent-Over Lateral Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["back"],
+    "equipment": "dumbbell",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "三角肌后束的黄金训练动作，俯身姿势使后束成为主要发力肌群，是平衡肩部发展、改善圆肩的关键动作。",
+    "instructions": [
+      "双脚与肩同宽站立，俯身使上身接近与地面平行",
+      "双手持哑铃自然下垂，掌心相对",
+      "保持肘部微弯，将哑铃向两侧抬起，肘部朝上",
+      "顶峰收缩三角肌后束和菱形肌1-2秒",
+      "缓慢下放，全程控制，避免身体摆动"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "阿诺德推举",
+    "name_en": "Arnold Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps"],
+    "equipment": "dumbbell",
+    "exercise_type": "compound",
+    "met_value": 5.5,
+    "description": "由阿诺德·施瓦辛格推广的哑铃推举变式，增加了旋转动作，全程刺激三角肌的前中后三个束，活动范围极大。",
+    "instructions": [
+      "坐姿或站姿，双手持哑铃置于胸前，掌心朝向自己",
+      "双臂向两侧打开的同时将哑铃向上推起",
+      "推至头顶时掌心转向前方，手臂接近伸直",
+      "顶峰收缩三角肌",
+      "沿原轨迹缓慢返回，旋转回起始位置"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "绳索侧平举",
+    "name_en": "Cable Lateral Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "利用龙门架低位滑轮进行的侧平举，相比哑铃版本提供了持续张力，离心和向心阶段都有充分的阻力刺激。",
+    "instructions": [
+      "将龙门架两侧滑轮调至最低，使用D型手柄",
+      "身体侧对或面对滑轮站立，单臂握住手柄",
+      "保持肘部微弯，将手柄从身体侧面抬起至肩高",
+      "顶峰收缩三角肌中束1-2秒",
+      "缓慢控制下放，全程保持绳索张力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "倒立俯卧撑",
+    "name_en": "Handstand Push-up",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["triceps"],
+    "equipment": "bodyweight",
+    "exercise_type": "bodyweight",
+    "met_value": 8.0,
+    "description": "高难度徒手推力动作，是自重推举的终极形态，对三角肌和肱三头肌的力量要求极高，也考验核心控制和平衡能力。",
+    "instructions": [
+      "面向墙壁倒立，双手与肩同宽置于地面",
+      "身体成一条直线，核心和臀部收紧",
+      "缓慢弯曲肘部下放头部至接近地面",
+      "发力推起身体至手臂完全伸展",
+      "初学者可先靠墙练习，逐步增加活动范围"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "杠铃提拉",
+    "name_en": "Barbell Upright Row",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["biceps"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 5.0,
+    "description": "杠铃垂直提拉至下巴高度，主要锻炼三角肌中束和斜方肌上部，但需注意握距（过窄增加肩峰撞击风险）。",
+    "instructions": [
+      "双脚与肩同宽站立，正手略宽于肩握住杠铃",
+      "杠铃悬垂于大腿前方，挺胸收腹",
+      "将杠铃沿身体前侧垂直提拉至下巴高度",
+      "肘部始终高于前臂，带动杠铃上升",
+      "缓慢控制下放，握距不应窄于肩宽以保护肩关节"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "反向飞鸟（蝴蝶机）",
+    "name_en": "Reverse Pec Deck Fly",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": ["back"],
+    "equipment": "machine",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "利用蝴蝶机反向座位进行的三角肌后束孤立训练，轨迹固定安全，能很好地感受后束发力和收缩。",
+    "instructions": [
+      "反向坐在蝴蝶机上，胸部贴近椅背",
+      "手臂向前伸展，握住前方手柄（或靠垫）",
+      "保持肘部微弯，将手臂向后打开至身体两侧",
+      "顶峰收缩三角肌后束和菱形肌1-2秒",
+      "缓慢控制返回，重量不宜过大，注重后束感受"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "杠铃弯举",
+    "name_en": "Barbell Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "barbell",
+    "exercise_type": "isolation",
+    "met_value": 4.0,
+    "description": "最经典的肱二头肌训练动作，使用杠铃可施加较大负重，对肱二头肌整体力量和围度发展效果显著。",
+    "instructions": [
+      "双脚与肩同宽站立，正手（掌心朝上）握住杠铃，手距与肩同宽",
+      "杠铃悬垂于大腿前方，上臂贴近身体两侧并保持固定",
+      "弯曲肘部将杠铃向上弯举至肩部高度",
+      "顶峰收缩肱二头肌1-2秒",
+      "缓慢控制下放至手臂接近伸直，全程上臂不移动"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "哑铃交替弯举",
+    "name_en": "Alternating Dumbbell Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "dumbbell",
+    "exercise_type": "isolation",
+    "met_value": 4.0,
+    "description": "哑铃交替弯举允许更大的自然活动范围，单侧训练可纠正左右手臂力量不平衡，还可加入前臂旋转以强化二头肌收缩。",
+    "instructions": [
+      "双手各持哑铃，手臂自然下垂于身体两侧，掌心朝前",
+      "保持上臂固定，一侧手臂弯曲将哑铃向上弯举",
+      "弯举过程中略微旋转手腕（小指朝上）增加顶峰收缩",
+      "顶峰收缩肱二头肌后缓慢下放",
+      "交替进行另一侧，全程保持身体稳定不后仰"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "锤式弯举",
+    "name_en": "Hammer Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "dumbbell",
+    "exercise_type": "isolation",
+    "met_value": 4.0,
+    "description": "掌心相对的弯举变式，强调肱肌（位于二头肌外侧下方）和肱桡肌，增加大臂整体维度，对握力提升也有帮助。",
+    "instructions": [
+      "双手各持哑铃，手臂自然下垂于身体两侧，掌心相对（锤式握法）",
+      "保持上臂固定，弯曲肘部将哑铃向上弯举",
+      "全程保持掌心相对的姿势不变",
+      "顶峰收缩肱肌和肱二头肌",
+      "缓慢控制下放，可交替或同时进行"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "牧师凳弯举",
+    "name_en": "Preacher Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "ez_bar",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "手臂固定在牧师凳斜面垫上，消除了身体借力可能，最大化隔离肱二头肌（尤其是长头），是优秀的二头肌孤立训练。",
+    "instructions": [
+      "调整座椅高度使腋窝卡在垫子顶部边缘",
+      "正手握EZ杆或杠铃，手臂完全伸展",
+      "弯曲肘部将杠铃向肩部方向弯举",
+      "顶峰收缩肱二头肌2秒",
+      "缓慢伸直手臂至起始位置，不要完全锁死肘关节"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "集中弯举",
+    "name_en": "Concentration Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "坐姿单臂弯举，肘部支撑在大腿内侧完全消除借力，能实现最纯粹的肱二头肌收缩，是感受二头肌发力的最佳动作之一。",
+    "instructions": [
+      "坐于平板凳上，双腿分开，一侧手持哑铃",
+      "持哑铃手肘部支撑在同侧大腿内侧",
+      "另一手支撑在对侧大腿上保持稳定",
+      "弯曲肘部将哑铃弯举至肩部，顶峰收缩2-3秒",
+      "缓慢下放至手臂接近伸直，全程上臂不离开大腿"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "绳索弯举",
+    "name_en": "Cable Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "利用龙门架低位滑轮进行弯举，全程提供持续均匀的张力，是自由重量弯举的优秀补充，适合训练收尾阶段。",
+    "instructions": [
+      "面对龙门架低位滑轮站立，使用直杆或绳索连接",
+      "正手握杆自然站立，手臂伸直于身体前方",
+      "保持上臂固定，弯举手柄至肩部高度",
+      "顶峰收缩二头肌，注意绳索全程保持张力",
+      "缓慢控制下放，可尝试21响礼炮法增加强度"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "窄距卧推",
+    "name_en": "Close-Grip Bench Press",
+    "primary_muscle": "triceps",
+    "secondary_muscles": ["chest", "shoulders"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 5.5,
+    "description": "手距与肩同宽或更窄的卧推变式，将发力重点从胸大肌转移至肱三头肌，是发展三头肌力量和厚度的高效复合动作。",
+    "instructions": [
+      "仰卧于平板凳上，双手与肩同宽或略窄握住杠铃",
+      "收紧肩胛骨，挺胸，双脚踩地",
+      "下放杠铃至下胸部，肘部贴近身体两侧",
+      "发力推起至手臂伸直，顶峰收缩三头肌",
+      "全程控制，肘部不外展，使用比常规卧推轻的重量"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "绳索下压",
+    "name_en": "Triceps Pushdown (Cable)",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "利用龙门架高位滑轮进行三头肌下压，是最受欢迎的三头肌孤立动作，通过更换手柄可多角度刺激三头肌。",
+    "instructions": [
+      "面对龙门架高位滑轮站立，使用绳索或直杆手柄",
+      "双手握住手柄，肘部弯曲约90度，上臂贴近身体",
+      "保持上臂固定，仅伸展前臂将手柄向下压",
+      "手臂完全伸直时顶峰收缩三头肌1-2秒",
+      "缓慢控制弯曲肘部回到起始位置，不要耸肩"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "法式弯举（仰卧臂屈伸）",
+    "name_en": "Lying Triceps Extension (Skull Crusher)",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "ez_bar",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "仰卧使用EZ杆或杠铃进行的臂屈伸，对肱三头肌长头刺激尤为突出，是发展三头肌整体围度的关键动作。",
+    "instructions": [
+      "仰卧于平板凳上，双手窄握EZ杆，手臂伸直指向天花板",
+      "保持上臂垂直于地面并固定不动",
+      "弯曲肘部下放EZ杆至额头附近（不要真的触及）",
+      "发力伸展肘部回到起始位置",
+      "全程保持上臂不移动，核心收紧，建议使用EZ杆减轻手腕压力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "过头绳索臂屈伸",
+    "name_en": "Overhead Cable Triceps Extension",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "cable",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "手臂举过头的三头肌训练，对肱三头肌长头的拉伸和收缩效果极佳，是发展三头肌完整形态的重要手段。",
+    "instructions": [
+      "背对龙门架高位滑轮站立，双手握住绳索从头顶上方",
+      "身体略前倾，双脚前后站立保持稳定",
+      "肘部弯曲，将绳索置于头后",
+      "伸展肘部将绳索拉至头顶上方，手臂伸直",
+      "顶峰收缩三头肌后缓慢返回，全程保持上臂位置稳定"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "板凳臂屈伸",
+    "name_en": "Bench Dip",
+    "primary_muscle": "triceps",
+    "secondary_muscles": ["chest", "shoulders"],
+    "equipment": "bodyweight",
+    "exercise_type": "bodyweight",
+    "met_value": 5.0,
+    "description": "利用板凳进行的自重三头肌训练，方便易行，可在任何场所进行，增加腿上负重可提高强度。",
+    "instructions": [
+      "双手置于背后的平板凳或椅子边缘，手指朝前",
+      "双腿向前伸展，脚跟着地（或放另一张凳子上增加难度）",
+      "缓慢弯曲肘部下放身体，肘部朝后",
+      "下降至肩部略低于肘部或三头肌有明显拉伸感",
+      "发力推起上半身，顶峰收缩三头肌，全程身体贴近板凳"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "钻石俯卧撑",
+    "name_en": "Diamond Push-up",
+    "primary_muscle": "triceps",
+    "secondary_muscles": ["chest"],
+    "equipment": "bodyweight",
+    "exercise_type": "bodyweight",
+    "met_value": 5.5,
+    "description": "双手拇指和食指相触形成钻石形状的俯卧撑变式，极大增加肱三头肌的参与度，是自重三头肌训练的王牌动作。",
+    "instructions": [
+      "俯卧姿势，双手置于胸部下方，拇指和食指相碰形成菱形",
+      "身体呈一条直线，收紧核心和臀部",
+      "缓慢下放身体至胸部接近手背",
+      "肘部贴近身体两侧，发力推起身体",
+      "全程保持身体平直，顶峰收缩三头肌"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "卷腹",
+    "name_en": "Crunch",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "exercise_type": "isolation",
+    "met_value": 3.0,
+    "description": "最基础且高效的腹直肌训练动作，相比仰卧起坐减少了髋屈肌的参与，更专注于腹肌收缩，对腰椎更安全。",
+    "instructions": [
+      "仰卧于瑜伽垫上，屈膝，双脚踩地，双手轻触耳侧或交叉胸前",
+      "收紧腹部，将肩胛骨抬离地面约30度",
+      "顶峰收缩腹肌1-2秒，注意不要用手拉头部",
+      "缓慢控制下放至肩胛骨轻触垫面",
+      "全程下背部保持贴地，专注于腹肌发力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "平板支撑",
+    "name_en": "Plank",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["shoulders", "back"],
+    "equipment": "bodyweight",
+    "exercise_type": "bodyweight",
+    "met_value": 3.5,
+    "description": "核心稳定性训练的黄金动作，主要锻炼腹横肌等深层核心肌群，对改善姿势、预防腰背疼痛有显著效果。",
+    "instructions": [
+      "前臂支撑于地面，肘部位于肩膀正下方",
+      "脚尖点地，身体呈一条直线，收紧臀部和腹部",
+      "保持头部中立位，眼睛看地面",
+      "维持该姿势，关注呼吸稳定",
+      "目标时间为30秒至2分钟，初学者可分多组进行"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "悬垂举腿",
+    "name_en": "Hanging Leg Raise",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "bodyweight",
+    "exercise_type": "isolation",
+    "met_value": 5.5,
+    "description": "悬挂于单杠上进行的腹肌训练，对下腹部的刺激尤为显著，同时需要较强的握力和肩部稳定性。",
+    "instructions": [
+      "双手正握单杠，身体完全悬垂，手臂伸直",
+      "收紧核心，双腿并拢伸直（或屈膝降低难度）",
+      "缓慢抬起双腿至与地面平行或更高",
+      "顶峰收缩腹肌1-2秒",
+      "控制下放双腿，全程身体不要摆动"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "俄罗斯转体",
+    "name_en": "Russian Twist",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "exercise_type": "isolation",
+    "met_value": 4.0,
+    "description": "坐姿旋转训练，主要针对腹斜肌（腹内外斜肌），对腰腹旋转力量和侧腹线条的塑造有很好的效果。",
+    "instructions": [
+      "坐于垫上，屈膝，脚后跟着地（或抬离增加难度），上身略后倾约45度",
+      "双手合十置于胸前（或持药球/哑铃增加负重）",
+      "将身体向一侧旋转，保持髋部尽量不转动",
+      "旋转至最大限度后回到中间，再转向另一侧",
+      "保持核心收紧，全程呼吸均匀，左右交替完成"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "仰卧起坐",
+    "name_en": "Sit-up",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["legs"],
+    "equipment": "bodyweight",
+    "exercise_type": "bodyweight",
+    "met_value": 5.0,
+    "description": "经典腹肌训练动作，完整起坐涉及腹直肌和髋屈肌，注意正确的起坐方式以减少腰椎压力。",
+    "instructions": [
+      "仰卧于垫上，屈膝，双脚踩地固定（或由同伴按住）",
+      "双手交叉于胸前或轻触耳侧",
+      "收紧腹部，卷曲身体坐起至肘部触膝",
+      "控制下放回到起始位置，肩部触垫",
+      "注意不要用手猛拉颈部，用腹部发力而非腰部"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "登山者",
+    "name_en": "Mountain Climber",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["shoulders", "legs"],
+    "equipment": "bodyweight",
+    "exercise_type": "cardio",
+    "met_value": 8.0,
+    "description": "高强度的动态核心训练动作，结合了有氧和核心训练，能有效提高心率同时锻炼腹部肌群。",
+    "instructions": [
+      "俯卧撑姿势，双手撑地，身体呈一条直线",
+      "收紧核心，快速交替将膝盖拉向胸部",
+      "保持髋部稳定不上下起伏",
+      "保持匀速呼吸，动作快速但受控",
+      "持续30-60秒为一组，休息后重复"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "臀桥",
+    "name_en": "Glute Bridge",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["legs", "abs"],
+    "equipment": "bodyweight",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "仰卧位的臀部激活训练动作，是臀推的入门版本，适合初学者学习臀部发力，也可作为臀部训练前的激活动作。",
+    "instructions": [
+      "仰卧于垫上，屈膝，双脚踩地与髋同宽",
+      "双臂置于体侧，掌心朝下",
+      "收紧臀部和核心，将臀部向上推起",
+      "顶峰收缩臀大肌2-3秒，身体从肩到膝呈一条直线",
+      "缓慢下放臀部接近地面但不触垫，重复进行"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "弹力带侧走",
+    "name_en": "Banded Lateral Walk",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["legs"],
+    "equipment": "bands",
+    "exercise_type": "isolation",
+    "met_value": 4.0,
+    "description": "将弹力带套在膝盖上方或脚踝处进行侧向移动，是极佳的臀中肌激活和强化训练，有助于预防跑步膝和IT带综合征。",
+    "instructions": [
+      "将弹力带套在双脚脚踝或膝盖上方",
+      "微蹲姿势，双脚与肩同宽，保持弹力带张力",
+      "一侧腿向侧方迈出一大步，另一腿跟随并拢",
+      "全程保持弹力带张力不松弛，膝盖不要内扣",
+      "朝一个方向走10-15步后反向走回"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "驴踢",
+    "name_en": "Donkey Kick",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["abs"],
+    "equipment": "bodyweight",
+    "exercise_type": "isolation",
+    "met_value": 3.5,
+    "description": "四足跪姿进行的臀部孤立训练，专注于臀大肌的上部收缩，是塑造蜜桃臀的必备动作之一。",
+    "instructions": [
+      "四足跪姿于垫上，手腕位于肩下，膝盖位于髋下",
+      "保持背部平直，核心收紧",
+      "保持膝盖弯曲90度，将一侧腿向上蹬",
+      "用臀部发力推动脚底朝向天花板",
+      "顶峰收缩臀大肌1-2秒后缓慢返回，全程不塌腰"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "杠铃臀推",
+    "name_en": "Barbell Hip Thrust",
+    "primary_muscle": "glutes",
+    "secondary_muscles": ["legs"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 5.0,
+    "description": "背部靠在平板凳上、杠铃置于髋部的臀部主力动作，是臀大肌力量与围度发展的第一选择，可使用较大重量。",
+    "instructions": [
+      "上背部靠在平板凳边缘（肩胛骨下缘），杠铃横置于髋部，用瑜伽垫缓冲",
+      "双脚与肩同宽踩地，小腿与地面垂直",
+      "发力将臀部向上推至身体从肩到膝呈一条直线",
+      "顶峰收缩臀大肌2-3秒，注意不要过度伸展腰椎",
+      "缓慢控制下放臀部至接近地面，保持肌肉张力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "跑步（户外）",
+    "name_en": "Running (Outdoor)",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["legs", "abs"],
+    "equipment": "bodyweight",
+    "exercise_type": "cardio",
+    "met_value": 8.5,
+    "description": "最经典的有氧运动方式，户外跑步能增强心肺功能、促进脂肪燃烧，配速不同可达到不同训练效果。",
+    "instructions": [
+      "选择合适的跑步路线，穿着缓震跑鞋",
+      "跑步前进行5-10分钟动态热身",
+      "保持自然跑姿：身体略前倾，中足着地，摆臂有力",
+      "跑步过程中保持可对话的呼吸强度（有氧区间）",
+      "跑后进行5-10分钟静态拉伸，补充水分"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "跳绳",
+    "name_en": "Jump Rope",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["legs", "shoulders", "abs"],
+    "equipment": "bodyweight",
+    "exercise_type": "cardio",
+    "met_value": 11.0,
+    "description": "高效的有氧运动，单位时间消耗热量极高，能显著提升协调性、心肺耐力和下肢爆发力，是拳击运动员的核心训练之一。",
+    "instructions": [
+      "选择合适长度的跳绳（踩绳后手柄至腋下高度）",
+      "双脚并拢微屈膝，手腕旋转驱动跳绳而非肩部",
+      "前脚掌着地跳跃，跳起高度约2-3厘米即可",
+      "保持核心收紧，身体直立，目视前方",
+      "从1-2分钟开始，逐渐增加持续时间至10-20分钟"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "动感单车",
+    "name_en": "Spinning / Indoor Cycling",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["abs"],
+    "equipment": "machine",
+    "exercise_type": "cardio",
+    "met_value": 9.0,
+    "description": "室内固定单车训练，音乐配合多变的阻力和速度，是极佳的热量消耗训练，对膝关节冲击小。",
+    "instructions": [
+      "调整车座高度使脚踏最低点时膝盖微弯",
+      "调整车把高度使上身舒适前倾",
+      "上车开始踩踏，从低阻力热身5分钟",
+      "根据课程或计划交替进行坐姿踩踏、站立爬坡和冲刺",
+      "训练结束后缓慢降低阻力，进行5分钟冷身骑行"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "划船机",
+    "name_en": "Rowing Machine",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["back", "legs", "shoulders", "abs"],
+    "equipment": "machine",
+    "exercise_type": "cardio",
+    "met_value": 7.0,
+    "description": "全身性的有氧器械训练，一次划船动作调动约85%的肌肉群，低冲击高消耗，是兼顾心肺和肌肉耐力的理想运动。",
+    "instructions": [
+      "坐入划船机，双脚固定在踏板上，屈膝握住手柄",
+      "起始姿势：上身略前倾，手臂伸直，膝盖弯曲",
+      "发力顺序：先蹬腿伸膝，再后仰上身，最后拉手柄至腹部",
+      "还原顺序：先伸直手臂，再前倾上身，最后屈膝",
+      "保持匀速节奏（如每分钟20-26桨），注意动作顺序不要颠倒"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "椭圆机",
+    "name_en": "Elliptical Trainer",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["legs", "shoulders"],
+    "equipment": "machine",
+    "exercise_type": "cardio",
+    "met_value": 6.0,
+    "description": "低冲击全身有氧器械，模拟跑步但无足部冲击，对膝关节友好，适合超重人群和康复期使用。",
+    "instructions": [
+      "踩上椭圆机踏板，双手握住活动手柄",
+      "保持上身直立，核心微收，目视前方",
+      "开始踩踏，同时推拉手柄使全身协调运动",
+      "可通过增加阻力和坡度和速度来调整强度",
+      "训练30-45分钟保持心率在目标心率区间"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "游泳（自由泳）",
+    "name_en": "Swimming (Freestyle)",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["back", "shoulders", "legs", "abs"],
+    "equipment": "bodyweight",
+    "exercise_type": "cardio",
+    "met_value": 9.5,
+    "description": "最全面的全身运动之一，水的阻力提供自然阻力训练效果，浮力消除了关节冲击，适合各年龄段和各体型人群。",
+    "instructions": [
+      "游泳前进行5-10分钟陆地动态热身和拉伸",
+      "入水后从自由泳开始，注意手臂交替划水配合腿部打水",
+      "保持身体呈流线型，头部位置稳定，侧面换气",
+      "控制配速，初学者可从25米间歇开始逐步增加距离",
+      "游泳后进行全身拉伸，特别注意肩部和背部的放松"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "爬楼梯",
+    "name_en": "Stair Climbing",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes", "abs"],
+    "equipment": "bodyweight",
+    "exercise_type": "cardio",
+    "met_value": 8.0,
+    "description": "利用楼梯进行的高效有氧训练，爬楼梯对臀腿肌群的刺激明显优于平地步行，热量消耗大且易于日常执行。",
+    "instructions": [
+      "选择有足够楼层高度的楼梯间",
+      "一步一阶或一步两阶自然节奏爬升",
+      "保持上身直立，手臂自然摆动辅助",
+      "可使用扶手辅助平衡但不要拉拽借力",
+      "爬至顶层后乘电梯下楼保护膝盖，从10-15分钟开始逐渐增加"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "快走",
+    "name_en": "Brisk Walking",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["abs"],
+    "equipment": "bodyweight",
+    "exercise_type": "cardio",
+    "met_value": 5.0,
+    "description": "最安全、最易执行的入门有氧运动，适合几乎所有人群，尤其是中老年人、超重者和运动康复人群。",
+    "instructions": [
+      "穿着舒适缓冲良好的步行鞋",
+      "保持上身直立，抬头挺胸，目视前方",
+      "以比平时步行更快的速度行走，手臂有力摆动",
+      "步频约每分钟100-120步，呼吸微促但仍可交谈",
+      "每次持续30-60分钟，每周至少5天"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "波比跳",
+    "name_en": "Burpee",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["legs", "chest", "shoulders", "abs"],
+    "equipment": "bodyweight",
+    "exercise_type": "cardio",
+    "met_value": 12.0,
+    "description": "高强度的全身体能训练动作，结合了深蹲、俯卧撑和垂直跳，是HIIT训练和体能测试中的经典动作，燃脂效率极高。",
+    "instructions": [
+      "站立姿势开始，快速下蹲双手撑地",
+      "双脚向后跳至俯卧撑姿势，做一个俯卧撑",
+      "双脚跳回蹲姿位置",
+      "从蹲姿爆发跳起，双手过头击掌",
+      "落地后立即衔接下一个，全程保持节奏快速流畅"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "壶铃摆动",
+    "name_en": "Kettlebell Swing",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["glutes", "back", "legs", "shoulders"],
+    "equipment": "kettlebell",
+    "exercise_type": "compound",
+    "met_value": 9.0,
+    "description": "壶铃训练的基础爆发动作，以髋部铰链发力驱动壶铃摆动，是发展后链爆发力和心肺耐力的高效训练。",
+    "instructions": [
+      "双脚比肩略宽站立，双手握住壶铃把手，壶铃置于双腿间",
+      "屈髋将臀部向后推，保持背部平直，膝盖微弯",
+      "爆发性将臀部向前推，带动壶铃向前摆至胸部高度",
+      "壶铃自然下摆时主动屈髋缓冲，让壶铃回到双腿间",
+      "全程核心收紧，手臂仅作连接不用力，发力来自髋部"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "抓举",
+    "name_en": "Snatch",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["legs", "back", "shoulders", "glutes", "abs"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 11.0,
+    "description": "奥运会举重项目之一，将杠铃从地面一次性举过头顶，需要极高的技术、爆发力、柔韧性和协调性，是全身爆发力的终极训练。",
+    "instructions": [
+      "双脚与髋同宽站立，正手握杠铃（宽握），背部平直",
+      "收紧核心和背部，从地面拉起杠铃",
+      "杠铃过膝后加速，爆发性伸髋伸膝将杠铃向上拉",
+      "快速下蹲至过头深蹲姿势接住杠铃",
+      "从深蹲姿势站起完成动作，全程动作流畅一气呵成"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "挺举",
+    "name_en": "Clean and Jerk",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["legs", "shoulders", "back", "glutes", "abs"],
+    "equipment": "barbell",
+    "exercise_type": "compound",
+    "met_value": 10.0,
+    "description": "奥运会举重项目之一，由翻铃和上挺两个阶段组成，使用最大重量，是全身力量和爆发力的终极体现。",
+    "instructions": [
+      "第一阶段翻铃：从地面拉起杠铃，快速翻至锁骨前蹲姿接住",
+      "从深蹲姿势站起，杠铃放置在锁骨和三角肌前束上",
+      "第二阶段上挺：微屈膝预蹲后爆发性向上推举杠铃",
+      "快速分腿下蹲（前后分腿）在杠铃下方接住",
+      "收腿站直，稳定后将杠铃放下，全程核心收紧"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "交叉卷腹",
+    "name_en": "Bicycle Crunch",
+    "primary_muscle": "abs",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "exercise_type": "isolation",
+    "met_value": 4.5,
+    "description": "结合了卷腹和转体的复合型腹肌训练，同时刺激腹直肌和腹斜肌，是公认腹肌训练效果最强的自主动作之一。",
+    "instructions": [
+      "仰卧于垫上，双手轻触耳侧，双腿抬起屈膝约90度",
+      "一侧肩胛骨抬离地面，同时将对侧膝盖拉向胸部",
+      "旋转躯干使肘部接近对侧膝盖",
+      "交替换另一侧，如同骑自行车",
+      "全程下背部贴地，动作缓慢且有控制，每组15-20次"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "负重体前屈",
+    "name_en": "Weighted Decline Sit-up",
+    "primary_muscle": "abs",
+    "secondary_muscles": ["legs"],
+    "equipment": "bodyweight",
+    "exercise_type": "isolation",
+    "met_value": 5.0,
+    "description": "在下斜板上进行的仰卧起坐变式，增加下落幅度以充分拉伸腹肌，是进阶腹肌训练者的有效选择。",
+    "instructions": [
+      "将下斜板凳调整至30-45度，双脚固定在高位",
+      "双手交叉胸前或持哑铃片增加负重",
+      "缓慢控制下放身体，全程腹肌保持张力",
+      "卷腹坐起至肘部接近膝盖",
+      "顶峰收缩腹肌后重复，全程保护颈部不猛拉"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "哑铃耸肩",
+    "name_en": "Dumbbell Shrug",
+    "primary_muscle": "back",
+    "secondary_muscles": ["shoulders"],
+    "equipment": "dumbbell",
+    "exercise_type": "isolation",
+    "met_value": 3.0,
+    "description": "斜方肌上部的孤立训练动作，主要发展斜方肌厚度和力量，动作轨迹简单直上直下。",
+    "instructions": [
+      "双手各持大重量哑铃，手臂自然下垂于身体两侧",
+      "保持手臂伸直，用力向上耸肩至最高点",
+      "顶峰收缩斜方肌1-2秒",
+      "缓慢下放哑铃，充分伸展斜方肌",
+      "全程身体稳定不晃动，不使用腿部借力"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "壶铃土耳其起立",
+    "name_en": "Kettlebell Turkish Get-Up",
+    "primary_muscle": "full_body",
+    "secondary_muscles": ["shoulders", "abs", "glutes", "legs"],
+    "equipment": "kettlebell",
+    "exercise_type": "compound",
+    "met_value": 7.0,
+    "description": "极具功能性的全身训练动作，从仰卧到站立完成一系列过渡姿势，全程保持壶铃高举过头，对肩部稳定性和核心控制要求极高。",
+    "instructions": [
+      "仰卧于垫上，一侧手持壶铃举过头顶，同侧腿屈膝踩地",
+      "对侧手臂45度外展支撑，将身体推至对侧肘部支撑",
+      "继续推起至对侧手掌支撑（半坐姿）",
+      "将下方腿后收弓步姿势站起",
+      "全程保持壶铃垂直向上不移位，反向返回仰卧姿势"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "飞力仕棒",
+    "name_en": "Barbell Wrist Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "exercise_type": "isolation",
+    "met_value": 2.5,
+    "description": "前臂屈肌的孤立训练，发展前臂围度和握力，对大重量硬拉和划船类动作的握力辅助作用明显。",
+    "instructions": [
+      "坐于平板凳上，前臂置于大腿上，手腕悬空在大腿外缘",
+      "正手握杠铃，只用手腕弯曲将杠铃向上卷起",
+      "顶峰收缩前臂屈肌1-2秒",
+      "缓慢伸展手腕至最大限度",
+      "全程仅手腕活动，前臂贴紧大腿不动"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "反握腕弯举",
+    "name_en": "Reverse Wrist Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "exercise_type": "isolation",
+    "met_value": 2.5,
+    "description": "前臂伸肌的孤立训练，强化前臂后侧肌肉，平衡前臂发展，预防网球肘等常见运动损伤。",
+    "instructions": [
+      "坐于平板凳上，前臂置于大腿上，手腕悬空",
+      "反握（掌心朝下）握杠铃，手腕弯曲下放",
+      "反向弯曲手腕将杠铃向上抬起",
+      "顶峰收缩前臂伸肌1-2秒",
+      "缓慢下放，全程前臂紧贴大腿"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "俯卧撑（宽距）",
+    "name_en": "Wide-Grip Push-up",
+    "primary_muscle": "chest",
+    "secondary_muscles": ["shoulders", "triceps"],
+    "equipment": "bodyweight",
+    "exercise_type": "bodyweight",
+    "met_value": 5.0,
+    "description": "双手宽度大幅度超越肩宽的俯卧撑变式，将发力重心从三头肌转移至胸大肌外缘，更强调胸部宽度发展。",
+    "instructions": [
+      "双手宽于肩约1.5-2倍放置于地面",
+      "手指朝前或略朝外，身体呈一条直线",
+      "缓慢下放身体至胸部接近地面",
+      "发力推起，专注胸部外缘发力感",
+      "全程身体绷直，肘部与身体夹角约60-70度"
+    ],
+    "is_verified": true
+  },
+  {
+    "name": "高脚杯深蹲（壶铃版）",
+    "name_en": "Kettlebell Goblet Squat",
+    "primary_muscle": "legs",
+    "secondary_muscles": ["glutes", "abs"],
+    "equipment": "kettlebell",
+    "exercise_type": "compound",
+    "met_value": 5.5,
+    "description": "用壶铃替代哑铃的高脚杯深蹲，壶铃独特形状使负重更贴近身体重心，有助于保持直立姿势和深蹲深度。",
+    "instructions": [
+      "双手握住壶铃两侧（壶身），将其抱在胸前",
+      "双脚与肩同宽，脚尖略朝外",
+      "保持壶铃紧贴身体，上身直立",
+      "下蹲至大腿与地面平行或更低，肘部触碰膝盖内侧",
+      "发力站起，全程保持核心收紧和上身挺直"
+    ],
+    "is_verified": true
+  }
+]

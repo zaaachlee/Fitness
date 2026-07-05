@@ -1,0 +1,7516 @@
+[
+  {
+    "name": "鸡胸肉(去皮)",
+    "name_en": "Chicken Breast (Skinless)",
+    "aliases": [
+      "鸡胸",
+      "鸡脯肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 133,
+    "protein_per_100g": 30.9,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 1.2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 65,
+    "cholesterol_per_100g": 63,
+    "saturated_fat_per_100g": 0.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 175,
+    "vitamins": {
+      "A": 6,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.07,
+      "B2": 0.13,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 3,
+      "iron": 0.7,
+      "potassium": 370,
+      "zinc": 0.6,
+      "magnesium": 33,
+      "sodium": 65
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鸡腿肉(去皮)",
+    "name_en": "Chicken Thigh (Skinless)",
+    "aliases": [
+      "鸡腿",
+      "去骨鸡腿肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 144,
+    "protein_per_100g": 20.6,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 6.8,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 76,
+    "cholesterol_per_100g": 94,
+    "saturated_fat_per_100g": 1.9,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 150,
+    "vitamins": {
+      "A": 18,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.08,
+      "B2": 0.18,
+      "B12": 0.6
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 0.9,
+      "potassium": 280,
+      "zinc": 1.5,
+      "magnesium": 25,
+      "sodium": 76
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鸡翅(带皮)",
+    "name_en": "Chicken Wing (with Skin)",
+    "aliases": [
+      "鸡翅膀",
+      "鸡翼"
+    ],
+    "category": "meat",
+    "calories_per_100g": 222,
+    "protein_per_100g": 18.3,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 16.4,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 74,
+    "cholesterol_per_100g": 83,
+    "saturated_fat_per_100g": 4.6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 160,
+    "vitamins": {
+      "A": 30,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.05,
+      "B2": 0.11,
+      "B12": 0.4
+    },
+    "minerals": {
+      "calcium": 11,
+      "iron": 0.8,
+      "potassium": 210,
+      "zinc": 1.3,
+      "magnesium": 22,
+      "sodium": 74
+    },
+    "is_verified": true
+  },
+  {
+    "name": "猪里脊",
+    "name_en": "Pork Tenderloin",
+    "aliases": [
+      "猪瘦肉",
+      "猪柳"
+    ],
+    "category": "meat",
+    "calories_per_100g": 143,
+    "protein_per_100g": 20.2,
+    "carbs_per_100g": 1.5,
+    "fat_per_100g": 6.2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 57,
+    "cholesterol_per_100g": 75,
+    "saturated_fat_per_100g": 2.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 145,
+    "vitamins": {
+      "A": 2,
+      "C": 0,
+      "D": 0.5,
+      "B1": 0.47,
+      "B2": 0.12,
+      "B12": 0.8
+    },
+    "minerals": {
+      "calcium": 6,
+      "iron": 1.5,
+      "potassium": 362,
+      "zinc": 2.3,
+      "magnesium": 27,
+      "sodium": 57
+    },
+    "is_verified": true
+  },
+  {
+    "name": "猪五花肉",
+    "name_en": "Pork Belly",
+    "aliases": [
+      "五花肉",
+      "腩肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 395,
+    "protein_per_100g": 9.4,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 37.6,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 36,
+    "cholesterol_per_100g": 80,
+    "saturated_fat_per_100g": 13.6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 130,
+    "vitamins": {
+      "A": 10,
+      "C": 0,
+      "D": 0.6,
+      "B1": 0.22,
+      "B2": 0.06,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 5,
+      "iron": 0.6,
+      "potassium": 248,
+      "zinc": 1,
+      "magnesium": 16,
+      "sodium": 36
+    },
+    "is_verified": true
+  },
+  {
+    "name": "猪排骨",
+    "name_en": "Pork Ribs",
+    "aliases": [
+      "排骨",
+      "肋排"
+    ],
+    "category": "meat",
+    "calories_per_100g": 264,
+    "protein_per_100g": 18.3,
+    "carbs_per_100g": 0.8,
+    "fat_per_100g": 20.4,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 74,
+    "cholesterol_per_100g": 146,
+    "saturated_fat_per_100g": 7.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 140,
+    "vitamins": {
+      "A": 12,
+      "C": 0,
+      "D": 0.3,
+      "B1": 0.31,
+      "B2": 0.18,
+      "B12": 0.9
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 1.1,
+      "potassium": 280,
+      "zinc": 2.5,
+      "magnesium": 19,
+      "sodium": 74
+    },
+    "is_verified": true
+  },
+  {
+    "name": "牛肉(瘦)",
+    "name_en": "Beef (Lean)",
+    "aliases": [
+      "瘦牛肉",
+      "牛瘦肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 125,
+    "protein_per_100g": 21.3,
+    "carbs_per_100g": 0.2,
+    "fat_per_100g": 4.2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 55,
+    "cholesterol_per_100g": 65,
+    "saturated_fat_per_100g": 1.6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 140,
+    "vitamins": {
+      "A": 7,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.04,
+      "B2": 0.14,
+      "B12": 2
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 2.7,
+      "potassium": 342,
+      "zinc": 4,
+      "magnesium": 23,
+      "sodium": 55
+    },
+    "is_verified": true
+  },
+  {
+    "name": "牛肉(肥牛)",
+    "name_en": "Beef (Brisket/Fatty)",
+    "aliases": [
+      "肥牛",
+      "牛胸肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 250,
+    "protein_per_100g": 17.8,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 19.5,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 60,
+    "cholesterol_per_100g": 82,
+    "saturated_fat_per_100g": 7.9,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 125,
+    "vitamins": {
+      "A": 8,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.03,
+      "B2": 0.12,
+      "B12": 1.7
+    },
+    "minerals": {
+      "calcium": 7,
+      "iron": 2.2,
+      "potassium": 280,
+      "zinc": 3.2,
+      "magnesium": 19,
+      "sodium": 60
+    },
+    "is_verified": true
+  },
+  {
+    "name": "牛腩",
+    "name_en": "Beef Brisket",
+    "aliases": [
+      "牛腩肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 195,
+    "protein_per_100g": 18.6,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 13.4,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 68,
+    "cholesterol_per_100g": 78,
+    "saturated_fat_per_100g": 5.4,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 130,
+    "vitamins": {
+      "A": 6,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.04,
+      "B2": 0.13,
+      "B12": 1.8
+    },
+    "minerals": {
+      "calcium": 7,
+      "iron": 2.5,
+      "potassium": 300,
+      "zinc": 3.5,
+      "magnesium": 20,
+      "sodium": 68
+    },
+    "is_verified": true
+  },
+  {
+    "name": "牛腱子",
+    "name_en": "Beef Shank",
+    "aliases": [
+      "牛腱",
+      "腱子肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 119,
+    "protein_per_100g": 21.8,
+    "carbs_per_100g": 0.2,
+    "fat_per_100g": 3.3,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 60,
+    "cholesterol_per_100g": 68,
+    "saturated_fat_per_100g": 1.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 150,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.04,
+      "B2": 0.16,
+      "B12": 2.2
+    },
+    "minerals": {
+      "calcium": 7,
+      "iron": 2.9,
+      "potassium": 360,
+      "zinc": 4.2,
+      "magnesium": 24,
+      "sodium": 60
+    },
+    "is_verified": true
+  },
+  {
+    "name": "羊腿肉",
+    "name_en": "Lamb Leg (Lean)",
+    "aliases": [
+      "羊腿",
+      "羊肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 143,
+    "protein_per_100g": 20.4,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 6.5,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 66,
+    "cholesterol_per_100g": 76,
+    "saturated_fat_per_100g": 2.6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 155,
+    "vitamins": {
+      "A": 8,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.06,
+      "B2": 0.22,
+      "B12": 2.6
+    },
+    "minerals": {
+      "calcium": 9,
+      "iron": 2.2,
+      "potassium": 330,
+      "zinc": 3.8,
+      "magnesium": 22,
+      "sodium": 66
+    },
+    "is_verified": true
+  },
+  {
+    "name": "羊排",
+    "name_en": "Lamb Chops",
+    "aliases": [
+      "羊肋骨",
+      "法式羊排"
+    ],
+    "category": "meat",
+    "calories_per_100g": 280,
+    "protein_per_100g": 17,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 23.5,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 70,
+    "cholesterol_per_100g": 95,
+    "saturated_fat_per_100g": 10.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 140,
+    "vitamins": {
+      "A": 10,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.05,
+      "B2": 0.18,
+      "B12": 2.2
+    },
+    "minerals": {
+      "calcium": 11,
+      "iron": 1.8,
+      "potassium": 280,
+      "zinc": 3.2,
+      "magnesium": 18,
+      "sodium": 70
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鸭肉(去皮)",
+    "name_en": "Duck Meat (Skinless)",
+    "aliases": [
+      "鸭胸肉",
+      "鸭肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 135,
+    "protein_per_100g": 18.3,
+    "carbs_per_100g": 0.1,
+    "fat_per_100g": 6.8,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 63,
+    "cholesterol_per_100g": 76,
+    "saturated_fat_per_100g": 2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 138,
+    "vitamins": {
+      "A": 28,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.05,
+      "B2": 0.22,
+      "B12": 0.4
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 2.4,
+      "potassium": 290,
+      "zinc": 1.7,
+      "magnesium": 19,
+      "sodium": 63
+    },
+    "is_verified": true
+  },
+  {
+    "name": "培根",
+    "name_en": "Bacon",
+    "aliases": [
+      "烟肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 541,
+    "protein_per_100g": 12.3,
+    "carbs_per_100g": 1.2,
+    "fat_per_100g": 42,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 1.1,
+    "sodium_per_100g": 1717,
+    "cholesterol_per_100g": 110,
+    "saturated_fat_per_100g": 14.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 120,
+    "vitamins": {
+      "A": 15,
+      "C": 0,
+      "D": 0.3,
+      "B1": 0.35,
+      "B2": 0.09,
+      "B12": 0.7
+    },
+    "minerals": {
+      "calcium": 6,
+      "iron": 0.5,
+      "potassium": 210,
+      "zinc": 1.2,
+      "magnesium": 13,
+      "sodium": 1717
+    },
+    "is_verified": true
+  },
+  {
+    "name": "火腿",
+    "name_en": "Ham",
+    "aliases": [
+      "西式火腿",
+      "火腿片"
+    ],
+    "category": "meat",
+    "calories_per_100g": 145,
+    "protein_per_100g": 17.8,
+    "carbs_per_100g": 4,
+    "fat_per_100g": 6.2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 3.5,
+    "sodium_per_100g": 1200,
+    "cholesterol_per_100g": 55,
+    "saturated_fat_per_100g": 2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 135,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0.5,
+      "B1": 0.48,
+      "B2": 0.12,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 0.6,
+      "potassium": 320,
+      "zinc": 1.5,
+      "magnesium": 18,
+      "sodium": 1200
+    },
+    "is_verified": true
+  },
+  {
+    "name": "香肠(猪肉)",
+    "name_en": "Sausage (Pork)",
+    "aliases": [
+      "肉肠",
+      "猪肉肠"
+    ],
+    "category": "meat",
+    "calories_per_100g": 300,
+    "protein_per_100g": 13.5,
+    "carbs_per_100g": 3.5,
+    "fat_per_100g": 25,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 2,
+    "sodium_per_100g": 900,
+    "cholesterol_per_100g": 80,
+    "saturated_fat_per_100g": 9,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 125,
+    "vitamins": {
+      "A": 12,
+      "C": 0,
+      "D": 0.4,
+      "B1": 0.25,
+      "B2": 0.1,
+      "B12": 0.8
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.8,
+      "potassium": 240,
+      "zinc": 1.6,
+      "magnesium": 15,
+      "sodium": 900
+    },
+    "is_verified": true
+  },
+  {
+    "name": "腊肉",
+    "name_en": "Chinese Cured Pork Belly",
+    "aliases": [
+      "腊味"
+    ],
+    "category": "meat",
+    "calories_per_100g": 498,
+    "protein_per_100g": 14.7,
+    "carbs_per_100g": 1.8,
+    "fat_per_100g": 48.8,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.8,
+    "sodium_per_100g": 2300,
+    "cholesterol_per_100g": 123,
+    "saturated_fat_per_100g": 18,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 110,
+    "vitamins": {
+      "A": 8,
+      "C": 0,
+      "D": 0.5,
+      "B1": 0.2,
+      "B2": 0.07,
+      "B12": 0.6
+    },
+    "minerals": {
+      "calcium": 7,
+      "iron": 1.1,
+      "potassium": 310,
+      "zinc": 1,
+      "magnesium": 14,
+      "sodium": 2300
+    },
+    "is_verified": true
+  },
+  {
+    "name": "午餐肉",
+    "name_en": "Luncheon Meat (Spam)",
+    "aliases": [
+      "罐装火腿肉"
+    ],
+    "category": "meat",
+    "calories_per_100g": 275,
+    "protein_per_100g": 12.5,
+    "carbs_per_100g": 9,
+    "fat_per_100g": 21,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 2.5,
+    "sodium_per_100g": 1150,
+    "cholesterol_per_100g": 68,
+    "saturated_fat_per_100g": 7.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 110,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0.3,
+      "B1": 0.2,
+      "B2": 0.12,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 0.9,
+      "potassium": 250,
+      "zinc": 1.2,
+      "magnesium": 12,
+      "sodium": 1150
+    },
+    "is_verified": true
+  },
+  {
+    "name": "猪肉馅(瘦)",
+    "name_en": "Ground Pork (Lean)",
+    "aliases": [
+      "猪绞肉",
+      "瘦肉馅"
+    ],
+    "category": "meat",
+    "calories_per_100g": 165,
+    "protein_per_100g": 19.2,
+    "carbs_per_100g": 0.5,
+    "fat_per_100g": 9.5,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 62,
+    "cholesterol_per_100g": 72,
+    "saturated_fat_per_100g": 3.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 140,
+    "vitamins": {
+      "A": 3,
+      "C": 0,
+      "D": 0.4,
+      "B1": 0.4,
+      "B2": 0.11,
+      "B12": 0.7
+    },
+    "minerals": {
+      "calcium": 7,
+      "iron": 1.3,
+      "potassium": 340,
+      "zinc": 2,
+      "magnesium": 25,
+      "sodium": 62
+    },
+    "is_verified": true
+  },
+  {
+    "name": "牛肉馅(瘦)",
+    "name_en": "Ground Beef (Lean)",
+    "aliases": [
+      "牛绞肉",
+      "牛肉糜"
+    ],
+    "category": "meat",
+    "calories_per_100g": 137,
+    "protein_per_100g": 21,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 5.5,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 60,
+    "cholesterol_per_100g": 68,
+    "saturated_fat_per_100g": 2.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 135,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.04,
+      "B2": 0.14,
+      "B12": 2.1
+    },
+    "minerals": {
+      "calcium": 9,
+      "iron": 2.6,
+      "potassium": 340,
+      "zinc": 3.8,
+      "magnesium": 22,
+      "sodium": 60
+    },
+    "is_verified": true
+  },
+  {
+    "name": "三文鱼",
+    "name_en": "Salmon (Atlantic)",
+    "aliases": [
+      "鲑鱼",
+      "大西洋鲑"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 208,
+    "protein_per_100g": 20.4,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 13.4,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 59,
+    "cholesterol_per_100g": 55,
+    "saturated_fat_per_100g": 3.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 120,
+    "vitamins": {
+      "A": 12,
+      "C": 0,
+      "D": 11,
+      "B1": 0.2,
+      "B2": 0.16,
+      "B12": 3.2
+    },
+    "minerals": {
+      "calcium": 9,
+      "iron": 0.3,
+      "potassium": 490,
+      "zinc": 0.6,
+      "magnesium": 29,
+      "sodium": 59
+    },
+    "is_verified": true
+  },
+  {
+    "name": "金枪鱼(罐头水浸)",
+    "name_en": "Tuna (Canned in Water)",
+    "aliases": [
+      "吞拿鱼罐头",
+      "金枪鱼罐头"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 116,
+    "protein_per_100g": 25.5,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 1.3,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 338,
+    "cholesterol_per_100g": 30,
+    "saturated_fat_per_100g": 0.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 150,
+    "vitamins": {
+      "A": 15,
+      "C": 0,
+      "D": 2,
+      "B1": 0.04,
+      "B2": 0.07,
+      "B12": 2.5
+    },
+    "minerals": {
+      "calcium": 13,
+      "iron": 1,
+      "potassium": 237,
+      "zinc": 0.8,
+      "magnesium": 27,
+      "sodium": 338
+    },
+    "is_verified": true
+  },
+  {
+    "name": "虾仁",
+    "name_en": "Shrimp (Peeled)",
+    "aliases": [
+      "虾肉",
+      "大虾仁"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 99,
+    "protein_per_100g": 20.3,
+    "carbs_per_100g": 0.2,
+    "fat_per_100g": 1.7,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 150,
+    "cholesterol_per_100g": 152,
+    "saturated_fat_per_100g": 0.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 195,
+    "vitamins": {
+      "A": 44,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.02,
+      "B2": 0.03,
+      "B12": 1.1
+    },
+    "minerals": {
+      "calcium": 67,
+      "iron": 1.7,
+      "potassium": 215,
+      "zinc": 1.3,
+      "magnesium": 33,
+      "sodium": 150
+    },
+    "is_verified": true
+  },
+  {
+    "name": "龙虾",
+    "name_en": "Lobster",
+    "aliases": [
+      "大龙虾"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 90,
+    "protein_per_100g": 19,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 0.9,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 296,
+    "cholesterol_per_100g": 146,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 175,
+    "vitamins": {
+      "A": 21,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.02,
+      "B2": 0.03,
+      "B12": 1.5
+    },
+    "minerals": {
+      "calcium": 60,
+      "iron": 0.4,
+      "potassium": 352,
+      "zinc": 2.5,
+      "magnesium": 38,
+      "sodium": 296
+    },
+    "is_verified": true
+  },
+  {
+    "name": "螃蟹(大闸蟹)",
+    "name_en": "Crab (Chinese Mitten Crab)",
+    "aliases": [
+      "大闸蟹",
+      "河蟹"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 103,
+    "protein_per_100g": 17.5,
+    "carbs_per_100g": 2.3,
+    "fat_per_100g": 2.6,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 193,
+    "cholesterol_per_100g": 126,
+    "saturated_fat_per_100g": 0.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 160,
+    "vitamins": {
+      "A": 389,
+      "C": 0,
+      "D": 0.3,
+      "B1": 0.06,
+      "B2": 0.37,
+      "B12": 4
+    },
+    "minerals": {
+      "calcium": 126,
+      "iron": 3.3,
+      "potassium": 260,
+      "zinc": 3.5,
+      "magnesium": 43,
+      "sodium": 193
+    },
+    "is_verified": true
+  },
+  {
+    "name": "蛤蜊",
+    "name_en": "Clams",
+    "aliases": [
+      "花蛤",
+      "蛤喇"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 74,
+    "protein_per_100g": 12.8,
+    "carbs_per_100g": 2.6,
+    "fat_per_100g": 1.1,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 340,
+    "cholesterol_per_100g": 40,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 100,
+    "vitamins": {
+      "A": 18,
+      "C": 2,
+      "D": 0.1,
+      "B1": 0.04,
+      "B2": 0.1,
+      "B12": 20
+    },
+    "minerals": {
+      "calcium": 48,
+      "iron": 11.8,
+      "potassium": 275,
+      "zinc": 1.6,
+      "magnesium": 32,
+      "sodium": 340
+    },
+    "is_verified": true
+  },
+  {
+    "name": "生蚝",
+    "name_en": "Oysters (Raw)",
+    "aliases": [
+      "牡蛎",
+      "蚝"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 68,
+    "protein_per_100g": 7,
+    "carbs_per_100g": 4.9,
+    "fat_per_100g": 2.4,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 275,
+    "cholesterol_per_100g": 55,
+    "saturated_fat_per_100g": 0.6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 90,
+    "vitamins": {
+      "A": 40,
+      "C": 4,
+      "D": 0.5,
+      "B1": 0.04,
+      "B2": 0.14,
+      "B12": 16
+    },
+    "minerals": {
+      "calcium": 45,
+      "iron": 6.5,
+      "potassium": 175,
+      "zinc": 39,
+      "magnesium": 28,
+      "sodium": 275
+    },
+    "is_verified": true
+  },
+  {
+    "name": "带鱼",
+    "name_en": "Hairtail (Cutlassfish)",
+    "aliases": [
+      "刀鱼",
+      "裙带鱼"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 161,
+    "protein_per_100g": 17.7,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 10,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 97,
+    "cholesterol_per_100g": 66,
+    "saturated_fat_per_100g": 3.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 145,
+    "vitamins": {
+      "A": 15,
+      "C": 0,
+      "D": 5,
+      "B1": 0.03,
+      "B2": 0.06,
+      "B12": 2
+    },
+    "minerals": {
+      "calcium": 28,
+      "iron": 1,
+      "potassium": 360,
+      "zinc": 0.8,
+      "magnesium": 30,
+      "sodium": 97
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鳕鱼",
+    "name_en": "Cod (Atlantic)",
+    "aliases": [
+      "太平洋鳕",
+      "真鳕"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 82,
+    "protein_per_100g": 17.8,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 0.7,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 78,
+    "cholesterol_per_100g": 43,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 130,
+    "vitamins": {
+      "A": 12,
+      "C": 1,
+      "D": 1.2,
+      "B1": 0.04,
+      "B2": 0.05,
+      "B12": 0.9
+    },
+    "minerals": {
+      "calcium": 14,
+      "iron": 0.4,
+      "potassium": 413,
+      "zinc": 0.5,
+      "magnesium": 32,
+      "sodium": 78
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鲈鱼",
+    "name_en": "Sea Bass",
+    "aliases": [
+      "花鲈",
+      "海鲈鱼"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 105,
+    "protein_per_100g": 18.6,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 3.4,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 88,
+    "cholesterol_per_100g": 56,
+    "saturated_fat_per_100g": 0.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 140,
+    "vitamins": {
+      "A": 19,
+      "C": 2,
+      "D": 3,
+      "B1": 0.04,
+      "B2": 0.08,
+      "B12": 1.5
+    },
+    "minerals": {
+      "calcium": 36,
+      "iron": 0.7,
+      "potassium": 380,
+      "zinc": 0.7,
+      "magnesium": 28,
+      "sodium": 88
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鱿鱼",
+    "name_en": "Squid",
+    "aliases": [
+      "乌贼",
+      "墨鱼"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 84,
+    "protein_per_100g": 15.6,
+    "carbs_per_100g": 1.7,
+    "fat_per_100g": 1.7,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 230,
+    "cholesterol_per_100g": 233,
+    "saturated_fat_per_100g": 0.4,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 185,
+    "vitamins": {
+      "A": 28,
+      "C": 0,
+      "D": 0.3,
+      "B1": 0.02,
+      "B2": 0.07,
+      "B12": 1.3
+    },
+    "minerals": {
+      "calcium": 32,
+      "iron": 0.6,
+      "potassium": 246,
+      "zinc": 1.6,
+      "magnesium": 33,
+      "sodium": 230
+    },
+    "is_verified": true
+  },
+  {
+    "name": "章鱼",
+    "name_en": "Octopus",
+    "aliases": [
+      "八爪鱼"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 82,
+    "protein_per_100g": 14.9,
+    "carbs_per_100g": 2.2,
+    "fat_per_100g": 1,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 230,
+    "cholesterol_per_100g": 138,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 180,
+    "vitamins": {
+      "A": 43,
+      "C": 5,
+      "D": 0.4,
+      "B1": 0.03,
+      "B2": 0.04,
+      "B12": 8
+    },
+    "minerals": {
+      "calcium": 45,
+      "iron": 7.7,
+      "potassium": 350,
+      "zinc": 1.7,
+      "magnesium": 30,
+      "sodium": 230
+    },
+    "is_verified": true
+  },
+  {
+    "name": "扇贝",
+    "name_en": "Scallops",
+    "aliases": [
+      "带子",
+      "干贝"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 88,
+    "protein_per_100g": 16.8,
+    "carbs_per_100g": 2.5,
+    "fat_per_100g": 0.8,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 270,
+    "cholesterol_per_100g": 38,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 130,
+    "vitamins": {
+      "A": 8,
+      "C": 2,
+      "D": 0.2,
+      "B1": 0.02,
+      "B2": 0.04,
+      "B12": 2
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 1.2,
+      "potassium": 260,
+      "zinc": 1.3,
+      "magnesium": 42,
+      "sodium": 270
+    },
+    "is_verified": true
+  },
+  {
+    "name": "龙利鱼",
+    "name_en": "Sole Fish (Flatfish)",
+    "aliases": [
+      "鳎目鱼",
+      "舌头鱼"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 88,
+    "protein_per_100g": 17,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 2.3,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 88,
+    "cholesterol_per_100g": 50,
+    "saturated_fat_per_100g": 0.4,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 120,
+    "vitamins": {
+      "A": 10,
+      "C": 0,
+      "D": 2.5,
+      "B1": 0.05,
+      "B2": 0.06,
+      "B12": 1.2
+    },
+    "minerals": {
+      "calcium": 18,
+      "iron": 0.5,
+      "potassium": 370,
+      "zinc": 0.5,
+      "magnesium": 28,
+      "sodium": 88
+    },
+    "is_verified": true
+  },
+  {
+    "name": "青花鱼",
+    "name_en": "Mackerel",
+    "aliases": [
+      "鲭鱼",
+      "马鲛鱼"
+    ],
+    "category": "seafood",
+    "calories_per_100g": 205,
+    "protein_per_100g": 19,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 14,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 87,
+    "cholesterol_per_100g": 70,
+    "saturated_fat_per_100g": 3.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": 155,
+    "vitamins": {
+      "A": 50,
+      "C": 1,
+      "D": 16,
+      "B1": 0.17,
+      "B2": 0.4,
+      "B12": 9
+    },
+    "minerals": {
+      "calcium": 12,
+      "iron": 1.2,
+      "potassium": 380,
+      "zinc": 0.8,
+      "magnesium": 33,
+      "sodium": 87
+    },
+    "is_verified": true
+  },
+  {
+    "name": "西兰花",
+    "name_en": "Broccoli",
+    "aliases": [
+      "青花菜",
+      "花椰菜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 34,
+    "protein_per_100g": 2.8,
+    "carbs_per_100g": 6.6,
+    "fat_per_100g": 0.4,
+    "fiber_per_100g": 2.6,
+    "sugar_per_100g": 1.7,
+    "sodium_per_100g": 33,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 31,
+      "C": 89.2,
+      "D": 0,
+      "B1": 0.07,
+      "B2": 0.12,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 47,
+      "iron": 0.7,
+      "potassium": 316,
+      "zinc": 0.4,
+      "magnesium": 21,
+      "sodium": 33
+    },
+    "is_verified": true
+  },
+  {
+    "name": "菠菜",
+    "name_en": "Spinach",
+    "aliases": [
+      "菠棱",
+      "赤根菜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 23,
+    "protein_per_100g": 2.9,
+    "carbs_per_100g": 3.6,
+    "fat_per_100g": 0.4,
+    "fiber_per_100g": 2.2,
+    "sugar_per_100g": 0.4,
+    "sodium_per_100g": 79,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 469,
+      "C": 28.1,
+      "D": 0,
+      "B1": 0.08,
+      "B2": 0.19,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 99,
+      "iron": 2.7,
+      "potassium": 558,
+      "zinc": 0.5,
+      "magnesium": 79,
+      "sodium": 79
+    },
+    "is_verified": true
+  },
+  {
+    "name": "生菜",
+    "name_en": "Lettuce (Romaine)",
+    "aliases": [
+      "叶用莴苣",
+      "玻璃生菜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 15,
+    "protein_per_100g": 1.4,
+    "carbs_per_100g": 2.8,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 1.3,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 8,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 436,
+      "C": 9,
+      "D": 0,
+      "B1": 0.07,
+      "B2": 0.08,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 36,
+      "iron": 1.2,
+      "potassium": 194,
+      "zinc": 0.3,
+      "magnesium": 13,
+      "sodium": 8
+    },
+    "is_verified": true
+  },
+  {
+    "name": "大白菜",
+    "name_en": "Napa Cabbage",
+    "aliases": [
+      "白菜",
+      "黄芽白"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 13,
+    "protein_per_100g": 1.5,
+    "carbs_per_100g": 2.2,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 1.2,
+    "sodium_per_100g": 9,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 31,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 50,
+      "iron": 0.4,
+      "potassium": 252,
+      "zinc": 0.4,
+      "magnesium": 11,
+      "sodium": 9
+    },
+    "is_verified": true
+  },
+  {
+    "name": "油麦菜",
+    "name_en": "Indian Lettuce",
+    "aliases": [
+      "莜麦菜",
+      "苦菜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 16,
+    "protein_per_100g": 1.3,
+    "carbs_per_100g": 2.5,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 0.8,
+    "sodium_per_100g": 32,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 125,
+      "C": 20,
+      "D": 0,
+      "B1": 0.05,
+      "B2": 0.08,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 70,
+      "iron": 1,
+      "potassium": 280,
+      "zinc": 0.3,
+      "magnesium": 18,
+      "sodium": 32
+    },
+    "is_verified": true
+  },
+  {
+    "name": "空心菜",
+    "name_en": "Water Spinach",
+    "aliases": [
+      "蕹菜",
+      "通菜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 20,
+    "protein_per_100g": 2.2,
+    "carbs_per_100g": 3.1,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 0.5,
+    "sodium_per_100g": 94,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 253,
+      "C": 15,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.08,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 99,
+      "iron": 2.3,
+      "potassium": 312,
+      "zinc": 0.4,
+      "magnesium": 29,
+      "sodium": 94
+    },
+    "is_verified": true
+  },
+  {
+    "name": "番茄",
+    "name_en": "Tomato",
+    "aliases": [
+      "西红柿",
+      "洋柿子"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 18,
+    "protein_per_100g": 0.9,
+    "carbs_per_100g": 3.9,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 1.2,
+    "sugar_per_100g": 2.6,
+    "sodium_per_100g": 5,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 30,
+    "gl": 3,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 42,
+      "C": 14,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.3,
+      "potassium": 237,
+      "zinc": 0.2,
+      "magnesium": 11,
+      "sodium": 5
+    },
+    "is_verified": true
+  },
+  {
+    "name": "黄瓜",
+    "name_en": "Cucumber",
+    "aliases": [
+      "青瓜",
+      "胡瓜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 15,
+    "protein_per_100g": 0.7,
+    "carbs_per_100g": 2.9,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 1.7,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 9,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 16,
+      "iron": 0.3,
+      "potassium": 147,
+      "zinc": 0.2,
+      "magnesium": 13,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "胡萝卜",
+    "name_en": "Carrot",
+    "aliases": [
+      "红萝卜",
+      "甘笋"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 41,
+    "protein_per_100g": 0.9,
+    "carbs_per_100g": 9.6,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 2.8,
+    "sugar_per_100g": 4.7,
+    "sodium_per_100g": 69,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 39,
+    "gl": 5,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 835,
+      "C": 5.9,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.05,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 33,
+      "iron": 0.3,
+      "potassium": 320,
+      "zinc": 0.2,
+      "magnesium": 12,
+      "sodium": 69
+    },
+    "is_verified": true
+  },
+  {
+    "name": "白萝卜",
+    "name_en": "White Radish (Daikon)",
+    "aliases": [
+      "萝卜",
+      "菜头"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 18,
+    "protein_per_100g": 0.6,
+    "carbs_per_100g": 4.1,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 1.6,
+    "sugar_per_100g": 2.5,
+    "sodium_per_100g": 28,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 21,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 36,
+      "iron": 0.3,
+      "potassium": 230,
+      "zinc": 0.2,
+      "magnesium": 10,
+      "sodium": 28
+    },
+    "is_verified": true
+  },
+  {
+    "name": "土豆",
+    "name_en": "Potato",
+    "aliases": [
+      "马铃薯",
+      "洋芋"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 77,
+    "protein_per_100g": 2,
+    "carbs_per_100g": 17.5,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 2.2,
+    "sugar_per_100g": 0.8,
+    "sodium_per_100g": 6,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 62,
+    "gl": 10,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 19.7,
+      "D": 0,
+      "B1": 0.08,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 5,
+      "iron": 0.8,
+      "potassium": 421,
+      "zinc": 0.3,
+      "magnesium": 23,
+      "sodium": 6
+    },
+    "is_verified": true
+  },
+  {
+    "name": "红薯",
+    "name_en": "Sweet Potato",
+    "aliases": [
+      "地瓜",
+      "番薯"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 86,
+    "protein_per_100g": 1.6,
+    "carbs_per_100g": 20.1,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 3,
+    "sugar_per_100g": 4.2,
+    "sodium_per_100g": 55,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 54,
+    "gl": 11,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 709,
+      "C": 2.4,
+      "D": 0,
+      "B1": 0.08,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 30,
+      "iron": 0.6,
+      "potassium": 337,
+      "zinc": 0.3,
+      "magnesium": 25,
+      "sodium": 55
+    },
+    "is_verified": true
+  },
+  {
+    "name": "玉米(甜)",
+    "name_en": "Sweet Corn",
+    "aliases": [
+      "甜玉米",
+      "包谷"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 96,
+    "protein_per_100g": 3.3,
+    "carbs_per_100g": 19,
+    "fat_per_100g": 1.2,
+    "fiber_per_100g": 2.4,
+    "sugar_per_100g": 6.3,
+    "sodium_per_100g": 15,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": 55,
+    "gl": 10,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 9,
+      "C": 6.8,
+      "D": 0,
+      "B1": 0.16,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 2,
+      "iron": 0.5,
+      "potassium": 270,
+      "zinc": 0.5,
+      "magnesium": 37,
+      "sodium": 15
+    },
+    "is_verified": true
+  },
+  {
+    "name": "南瓜",
+    "name_en": "Pumpkin",
+    "aliases": [
+      "倭瓜",
+      "金瓜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 26,
+    "protein_per_100g": 1,
+    "carbs_per_100g": 6.5,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 2.8,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": 65,
+    "gl": 5,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 426,
+      "C": 9,
+      "D": 0,
+      "B1": 0.05,
+      "B2": 0.11,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 21,
+      "iron": 0.8,
+      "potassium": 340,
+      "zinc": 0.3,
+      "magnesium": 12,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "冬瓜",
+    "name_en": "Winter Melon",
+    "aliases": [
+      "白瓜",
+      "东瓜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 13,
+    "protein_per_100g": 0.4,
+    "carbs_per_100g": 3,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 0.7,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 18,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.01,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 19,
+      "iron": 0.2,
+      "potassium": 136,
+      "zinc": 0.1,
+      "magnesium": 8,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "茄子",
+    "name_en": "Eggplant",
+    "aliases": [
+      "矮瓜",
+      "紫茄"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 25,
+    "protein_per_100g": 1,
+    "carbs_per_100g": 5.9,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 3,
+    "sugar_per_100g": 3.5,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 1,
+      "C": 2.2,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.04,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 9,
+      "iron": 0.2,
+      "potassium": 229,
+      "zinc": 0.2,
+      "magnesium": 14,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "青椒",
+    "name_en": "Green Pepper",
+    "aliases": [
+      "柿子椒",
+      "灯笼椒"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 20,
+    "protein_per_100g": 0.9,
+    "carbs_per_100g": 4.6,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 1.7,
+    "sugar_per_100g": 2.4,
+    "sodium_per_100g": 3,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 18,
+      "C": 80.4,
+      "D": 0,
+      "B1": 0.06,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.3,
+      "potassium": 175,
+      "zinc": 0.1,
+      "magnesium": 10,
+      "sodium": 3
+    },
+    "is_verified": true
+  },
+  {
+    "name": "红椒",
+    "name_en": "Red Bell Pepper",
+    "aliases": [
+      "红柿子椒",
+      "红灯笼椒"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 31,
+    "protein_per_100g": 1,
+    "carbs_per_100g": 6,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 2.1,
+    "sugar_per_100g": 4.2,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 157,
+      "C": 127.7,
+      "D": 0,
+      "B1": 0.05,
+      "B2": 0.09,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 7,
+      "iron": 0.4,
+      "potassium": 211,
+      "zinc": 0.3,
+      "magnesium": 12,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "洋葱",
+    "name_en": "Onion",
+    "aliases": [
+      "圆葱",
+      "玉葱"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 40,
+    "protein_per_100g": 1.1,
+    "carbs_per_100g": 9.3,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 1.7,
+    "sugar_per_100g": 4.2,
+    "sodium_per_100g": 4,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 10,
+    "gl": 2,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 7.4,
+      "D": 0,
+      "B1": 0.05,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 23,
+      "iron": 0.2,
+      "potassium": 146,
+      "zinc": 0.2,
+      "magnesium": 10,
+      "sodium": 4
+    },
+    "is_verified": true
+  },
+  {
+    "name": "大蒜",
+    "name_en": "Garlic",
+    "aliases": [
+      "蒜头",
+      "大蒜头"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 149,
+    "protein_per_100g": 6.4,
+    "carbs_per_100g": 33.1,
+    "fat_per_100g": 0.5,
+    "fiber_per_100g": 2.1,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 17,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 31.2,
+      "D": 0,
+      "B1": 0.2,
+      "B2": 0.11,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 181,
+      "iron": 1.7,
+      "potassium": 401,
+      "zinc": 1.2,
+      "magnesium": 25,
+      "sodium": 17
+    },
+    "is_verified": true
+  },
+  {
+    "name": "生姜",
+    "name_en": "Ginger",
+    "aliases": [
+      "姜",
+      "老姜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 80,
+    "protein_per_100g": 1.8,
+    "carbs_per_100g": 17.8,
+    "fat_per_100g": 0.8,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 1.7,
+    "sodium_per_100g": 13,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 5,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 16,
+      "iron": 0.6,
+      "potassium": 415,
+      "zinc": 0.3,
+      "magnesium": 43,
+      "sodium": 13
+    },
+    "is_verified": true
+  },
+  {
+    "name": "芹菜",
+    "name_en": "Celery",
+    "aliases": [
+      "旱芹",
+      "西芹"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 16,
+    "protein_per_100g": 0.7,
+    "carbs_per_100g": 3.4,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 1.6,
+    "sugar_per_100g": 1.8,
+    "sodium_per_100g": 80,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 22,
+      "C": 3.1,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 40,
+      "iron": 0.2,
+      "potassium": 260,
+      "zinc": 0.1,
+      "magnesium": 11,
+      "sodium": 80
+    },
+    "is_verified": true
+  },
+  {
+    "name": "豆芽(绿豆)",
+    "name_en": "Mung Bean Sprouts",
+    "aliases": [
+      "绿豆芽",
+      "芽菜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 18,
+    "protein_per_100g": 2.1,
+    "carbs_per_100g": 2.7,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 1.2,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 6,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 1,
+      "C": 8,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.6,
+      "potassium": 149,
+      "zinc": 0.3,
+      "magnesium": 14,
+      "sodium": 6
+    },
+    "is_verified": true
+  },
+  {
+    "name": "蘑菇(口蘑)",
+    "name_en": "White Mushroom",
+    "aliases": [
+      "口蘑",
+      "白蘑菇"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 22,
+    "protein_per_100g": 3.1,
+    "carbs_per_100g": 3.3,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 2,
+    "sodium_per_100g": 5,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 2.1,
+      "D": 0.2,
+      "B1": 0.08,
+      "B2": 0.45,
+      "B12": 0.1
+    },
+    "minerals": {
+      "calcium": 3,
+      "iron": 0.5,
+      "potassium": 318,
+      "zinc": 0.5,
+      "magnesium": 9,
+      "sodium": 5
+    },
+    "is_verified": true
+  },
+  {
+    "name": "木耳(干)",
+    "name_en": "Dried Black Fungus",
+    "aliases": [
+      "黑木耳",
+      "云耳"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 284,
+    "protein_per_100g": 12.4,
+    "carbs_per_100g": 65.6,
+    "fat_per_100g": 1.5,
+    "fiber_per_100g": 33.4,
+    "sugar_per_100g": 3,
+    "sodium_per_100g": 32,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.17,
+      "B2": 0.44,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 247,
+      "iron": 97.4,
+      "potassium": 757,
+      "zinc": 1,
+      "magnesium": 83,
+      "sodium": 32
+    },
+    "is_verified": true
+  },
+  {
+    "name": "海带(鲜)",
+    "name_en": "Kelp (Fresh)",
+    "aliases": [
+      "昆布",
+      "江白菜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 16,
+    "protein_per_100g": 1.2,
+    "carbs_per_100g": 3,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 1.3,
+    "sugar_per_100g": 0.3,
+    "sodium_per_100g": 107,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 18,
+      "C": 3,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 168,
+      "iron": 2.4,
+      "potassium": 356,
+      "zinc": 0.2,
+      "magnesium": 52,
+      "sodium": 107
+    },
+    "is_verified": true
+  },
+  {
+    "name": "紫菜(干)",
+    "name_en": "Dried Nori (Laver)",
+    "aliases": [
+      "海苔",
+      "紫菜干"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 250,
+    "protein_per_100g": 28,
+    "carbs_per_100g": 44,
+    "fat_per_100g": 2.4,
+    "fiber_per_100g": 21.6,
+    "sugar_per_100g": 3,
+    "sodium_per_100g": 327,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 254,
+      "C": 30,
+      "D": 0,
+      "B1": 0.3,
+      "B2": 1.02,
+      "B12": 2
+    },
+    "minerals": {
+      "calcium": 264,
+      "iron": 54.9,
+      "potassium": 1796,
+      "zinc": 3.5,
+      "magnesium": 105,
+      "sodium": 327
+    },
+    "is_verified": true
+  },
+  {
+    "name": "秋葵",
+    "name_en": "Okra",
+    "aliases": [
+      "羊角豆",
+      "咖啡黄葵"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 33,
+    "protein_per_100g": 1.9,
+    "carbs_per_100g": 7.5,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 3.2,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 7,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 36,
+      "C": 23,
+      "D": 0,
+      "B1": 0.2,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 82,
+      "iron": 0.6,
+      "potassium": 299,
+      "zinc": 0.6,
+      "magnesium": 57,
+      "sodium": 7
+    },
+    "is_verified": true
+  },
+  {
+    "name": "芦笋",
+    "name_en": "Asparagus",
+    "aliases": [
+      "石刁柏",
+      "龙须菜"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 20,
+    "protein_per_100g": 2.2,
+    "carbs_per_100g": 3.9,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 2.1,
+    "sugar_per_100g": 1.9,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 38,
+      "C": 5.6,
+      "D": 0,
+      "B1": 0.14,
+      "B2": 0.14,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 24,
+      "iron": 2.1,
+      "potassium": 202,
+      "zinc": 0.5,
+      "magnesium": 14,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "花菜",
+    "name_en": "Cauliflower",
+    "aliases": [
+      "花椰菜",
+      "菜花"
+    ],
+    "category": "vegetable",
+    "calories_per_100g": 25,
+    "protein_per_100g": 1.9,
+    "carbs_per_100g": 5,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 1.9,
+    "sodium_per_100g": 30,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 48.2,
+      "D": 0,
+      "B1": 0.05,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 22,
+      "iron": 0.4,
+      "potassium": 299,
+      "zinc": 0.3,
+      "magnesium": 15,
+      "sodium": 30
+    },
+    "is_verified": true
+  },
+  {
+    "name": "苹果",
+    "name_en": "Apple",
+    "aliases": [
+      "红富士",
+      "蛇果"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 53,
+    "protein_per_100g": 0.3,
+    "carbs_per_100g": 13.8,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 2.4,
+    "sugar_per_100g": 10.4,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 36,
+    "gl": 5,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 3,
+      "C": 4.6,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 6,
+      "iron": 0.1,
+      "potassium": 107,
+      "zinc": 0,
+      "magnesium": 5,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "香蕉",
+    "name_en": "Banana",
+    "aliases": [
+      "蕉",
+      "大蕉"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 89,
+    "protein_per_100g": 1.1,
+    "carbs_per_100g": 22.8,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 2.6,
+    "sugar_per_100g": 12.2,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": 51,
+    "gl": 12,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 3,
+      "C": 8.7,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.07,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 5,
+      "iron": 0.3,
+      "potassium": 358,
+      "zinc": 0.2,
+      "magnesium": 27,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "橙子",
+    "name_en": "Orange",
+    "aliases": [
+      "甜橙",
+      "柳丁"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 47,
+    "protein_per_100g": 0.9,
+    "carbs_per_100g": 11.8,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 2.4,
+    "sugar_per_100g": 9.4,
+    "sodium_per_100g": 0,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 43,
+    "gl": 5,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 11,
+      "C": 53.2,
+      "D": 0,
+      "B1": 0.09,
+      "B2": 0.04,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 40,
+      "iron": 0.1,
+      "potassium": 181,
+      "zinc": 0.1,
+      "magnesium": 10,
+      "sodium": 0
+    },
+    "is_verified": true
+  },
+  {
+    "name": "葡萄",
+    "name_en": "Grapes",
+    "aliases": [
+      "提子",
+      "蒲桃"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 69,
+    "protein_per_100g": 0.7,
+    "carbs_per_100g": 18.1,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 0.9,
+    "sugar_per_100g": 15.5,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": 53,
+    "gl": 8,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 3,
+      "C": 3.2,
+      "D": 0,
+      "B1": 0.07,
+      "B2": 0.07,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.4,
+      "potassium": 191,
+      "zinc": 0.1,
+      "magnesium": 7,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "西瓜",
+    "name_en": "Watermelon",
+    "aliases": [
+      "寒瓜",
+      "夏瓜"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 30,
+    "protein_per_100g": 0.6,
+    "carbs_per_100g": 7.6,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 0.4,
+    "sugar_per_100g": 6.2,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 72,
+    "gl": 5,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 28,
+      "C": 8.1,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 7,
+      "iron": 0.2,
+      "potassium": 112,
+      "zinc": 0.1,
+      "magnesium": 10,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "草莓",
+    "name_en": "Strawberry",
+    "aliases": [
+      "士多啤梨",
+      "洋莓"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 32,
+    "protein_per_100g": 0.7,
+    "carbs_per_100g": 7.7,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 4.9,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 40,
+    "gl": 3,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 1,
+      "C": 58.8,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 16,
+      "iron": 0.4,
+      "potassium": 153,
+      "zinc": 0.1,
+      "magnesium": 13,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "蓝莓",
+    "name_en": "Blueberry",
+    "aliases": [
+      "越橘",
+      "蓝浆果"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 57,
+    "protein_per_100g": 0.7,
+    "carbs_per_100g": 14.5,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 2.4,
+    "sugar_per_100g": 10,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 53,
+    "gl": 6,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 3,
+      "C": 9.7,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.04,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 6,
+      "iron": 0.3,
+      "potassium": 77,
+      "zinc": 0.2,
+      "magnesium": 6,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "猕猴桃",
+    "name_en": "Kiwi Fruit",
+    "aliases": [
+      "奇异果",
+      "阳桃"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 61,
+    "protein_per_100g": 1.1,
+    "carbs_per_100g": 14.7,
+    "fat_per_100g": 0.5,
+    "fiber_per_100g": 3,
+    "sugar_per_100g": 9,
+    "sodium_per_100g": 3,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 50,
+    "gl": 6,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 4,
+      "C": 92.7,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 34,
+      "iron": 0.3,
+      "potassium": 312,
+      "zinc": 0.1,
+      "magnesium": 17,
+      "sodium": 3
+    },
+    "is_verified": true
+  },
+  {
+    "name": "芒果",
+    "name_en": "Mango",
+    "aliases": [
+      "杧果",
+      "檬果"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 60,
+    "protein_per_100g": 0.8,
+    "carbs_per_100g": 15,
+    "fat_per_100g": 0.4,
+    "fiber_per_100g": 1.6,
+    "sugar_per_100g": 13.7,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": 51,
+    "gl": 7,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 54,
+      "C": 36.4,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.04,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 11,
+      "iron": 0.2,
+      "potassium": 168,
+      "zinc": 0.1,
+      "magnesium": 10,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "菠萝",
+    "name_en": "Pineapple",
+    "aliases": [
+      "凤梨",
+      "黄梨"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 50,
+    "protein_per_100g": 0.5,
+    "carbs_per_100g": 13.1,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 1.4,
+    "sugar_per_100g": 9.9,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 59,
+    "gl": 6,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 3,
+      "C": 47.8,
+      "D": 0,
+      "B1": 0.08,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 13,
+      "iron": 0.3,
+      "potassium": 109,
+      "zinc": 0.1,
+      "magnesium": 12,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "梨",
+    "name_en": "Pear",
+    "aliases": [
+      "雪梨",
+      "鸭梨"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 57,
+    "protein_per_100g": 0.4,
+    "carbs_per_100g": 15.5,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 3.1,
+    "sugar_per_100g": 9.8,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 38,
+    "gl": 4,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 1,
+      "C": 4.3,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 9,
+      "iron": 0.2,
+      "potassium": 116,
+      "zinc": 0.1,
+      "magnesium": 7,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "桃子",
+    "name_en": "Peach",
+    "aliases": [
+      "蜜桃",
+      "水蜜桃"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 39,
+    "protein_per_100g": 0.9,
+    "carbs_per_100g": 9.5,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 8.4,
+    "sodium_per_100g": 0,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 42,
+    "gl": 4,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 16,
+      "C": 6.6,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 6,
+      "iron": 0.3,
+      "potassium": 190,
+      "zinc": 0.2,
+      "magnesium": 9,
+      "sodium": 0
+    },
+    "is_verified": true
+  },
+  {
+    "name": "樱桃",
+    "name_en": "Cherry",
+    "aliases": [
+      "车厘子",
+      "樱珠"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 63,
+    "protein_per_100g": 1.1,
+    "carbs_per_100g": 16,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 2.1,
+    "sugar_per_100g": 12.8,
+    "sodium_per_100g": 0,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 22,
+    "gl": 4,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 3,
+      "C": 7,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 13,
+      "iron": 0.4,
+      "potassium": 222,
+      "zinc": 0.1,
+      "magnesium": 11,
+      "sodium": 0
+    },
+    "is_verified": true
+  },
+  {
+    "name": "柚子",
+    "name_en": "Pomelo",
+    "aliases": [
+      "文旦",
+      "胡柚"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 38,
+    "protein_per_100g": 0.8,
+    "carbs_per_100g": 9.6,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 6,
+    "sodium_per_100g": 0,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 25,
+    "gl": 2,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 2,
+      "C": 61,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 12,
+      "iron": 0.1,
+      "potassium": 216,
+      "zinc": 0.1,
+      "magnesium": 6,
+      "sodium": 0
+    },
+    "is_verified": true
+  },
+  {
+    "name": "柠檬",
+    "name_en": "Lemon",
+    "aliases": [
+      "柠果",
+      "洋柠檬"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 29,
+    "protein_per_100g": 1.1,
+    "carbs_per_100g": 9.3,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 2.8,
+    "sugar_per_100g": 2.5,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 1,
+      "C": 53,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 26,
+      "iron": 0.6,
+      "potassium": 138,
+      "zinc": 0.1,
+      "magnesium": 8,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "牛油果",
+    "name_en": "Avocado",
+    "aliases": [
+      "鳄梨",
+      "酪梨"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 160,
+    "protein_per_100g": 2,
+    "carbs_per_100g": 8.5,
+    "fat_per_100g": 14.7,
+    "fiber_per_100g": 6.7,
+    "sugar_per_100g": 0.7,
+    "sodium_per_100g": 7,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 2.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 7,
+      "C": 10,
+      "D": 0,
+      "B1": 0.07,
+      "B2": 0.13,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 12,
+      "iron": 0.6,
+      "potassium": 485,
+      "zinc": 0.6,
+      "magnesium": 29,
+      "sodium": 7
+    },
+    "is_verified": true
+  },
+  {
+    "name": "榴莲",
+    "name_en": "Durian",
+    "aliases": [
+      "榴梿",
+      "金枕头"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 147,
+    "protein_per_100g": 1.5,
+    "carbs_per_100g": 27.1,
+    "fat_per_100g": 5.3,
+    "fiber_per_100g": 3.8,
+    "sugar_per_100g": 12,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 1.7,
+    "gi": 49,
+    "gl": 13,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 2,
+      "C": 19.7,
+      "D": 0,
+      "B1": 0.37,
+      "B2": 0.2,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 6,
+      "iron": 0.4,
+      "potassium": 436,
+      "zinc": 0.3,
+      "magnesium": 30,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "火龙果",
+    "name_en": "Dragon Fruit (Pitaya)",
+    "aliases": [
+      "红龙果",
+      "仙蜜果"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 55,
+    "protein_per_100g": 1.1,
+    "carbs_per_100g": 13,
+    "fat_per_100g": 0.4,
+    "fiber_per_100g": 1.6,
+    "sugar_per_100g": 8.5,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 5,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.04,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 6,
+      "iron": 0.4,
+      "potassium": 225,
+      "zinc": 0.3,
+      "magnesium": 37,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "哈密瓜",
+    "name_en": "Hami Melon",
+    "aliases": [
+      "网纹瓜",
+      "哈密甜瓜"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 34,
+    "protein_per_100g": 0.8,
+    "carbs_per_100g": 8.2,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 0.9,
+    "sugar_per_100g": 7.8,
+    "sodium_per_100g": 27,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 65,
+    "gl": 5,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 118,
+      "C": 12,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.01,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 16,
+      "iron": 0.2,
+      "potassium": 267,
+      "zinc": 0.1,
+      "magnesium": 10,
+      "sodium": 27
+    },
+    "is_verified": true
+  },
+  {
+    "name": "圣女果",
+    "name_en": "Cherry Tomato",
+    "aliases": [
+      "小番茄",
+      "樱桃番茄"
+    ],
+    "category": "fruit",
+    "calories_per_100g": 22,
+    "protein_per_100g": 1,
+    "carbs_per_100g": 4,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 1.8,
+    "sugar_per_100g": 2.6,
+    "sodium_per_100g": 5,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 42,
+      "C": 20,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.5,
+      "potassium": 292,
+      "zinc": 0.2,
+      "magnesium": 11,
+      "sodium": 5
+    },
+    "is_verified": true
+  },
+  {
+    "name": "白米饭(熟)",
+    "name_en": "White Rice (Cooked)",
+    "aliases": [
+      "米饭",
+      "大米饭"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 116,
+    "protein_per_100g": 2.6,
+    "carbs_per_100g": 25.9,
+    "fat_per_100g": 0.3,
+    "fiber_per_100g": 0.3,
+    "sugar_per_100g": 0.1,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": 73,
+    "gl": 19,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.01,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.2,
+      "potassium": 35,
+      "zinc": 0.5,
+      "magnesium": 12,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "馒头",
+    "name_en": "Steamed Bun (Mantou)",
+    "aliases": [
+      "白馒头",
+      "蒸馍"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 223,
+    "protein_per_100g": 7,
+    "carbs_per_100g": 44.2,
+    "fat_per_100g": 1.1,
+    "fiber_per_100g": 1.3,
+    "sugar_per_100g": 2,
+    "sodium_per_100g": 138,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": 68,
+    "gl": 19,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.05,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 18,
+      "iron": 0.5,
+      "potassium": 82,
+      "zinc": 0.7,
+      "magnesium": 13,
+      "sodium": 138
+    },
+    "is_verified": true
+  },
+  {
+    "name": "面条(煮)",
+    "name_en": "Noodles (Cooked)",
+    "aliases": [
+      "煮面",
+      "白面条"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 138,
+    "protein_per_100g": 4.5,
+    "carbs_per_100g": 28.6,
+    "fat_per_100g": 0.5,
+    "fiber_per_100g": 0.8,
+    "sugar_per_100g": 0.3,
+    "sodium_per_100g": 15,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": 61,
+    "gl": 17,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 9,
+      "iron": 0.6,
+      "potassium": 44,
+      "zinc": 0.4,
+      "magnesium": 14,
+      "sodium": 15
+    },
+    "is_verified": true
+  },
+  {
+    "name": "全麦面包",
+    "name_en": "Whole Wheat Bread",
+    "aliases": [
+      "全麦吐司",
+      "黑面包"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 247,
+    "protein_per_100g": 9.3,
+    "carbs_per_100g": 43.1,
+    "fat_per_100g": 3.4,
+    "fiber_per_100g": 6,
+    "sugar_per_100g": 5,
+    "sodium_per_100g": 400,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.7,
+    "gi": 53,
+    "gl": 16,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.22,
+      "B2": 0.13,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 72,
+      "iron": 2,
+      "potassium": 220,
+      "zinc": 1,
+      "magnesium": 51,
+      "sodium": 400
+    },
+    "is_verified": true
+  },
+  {
+    "name": "白面包",
+    "name_en": "White Bread",
+    "aliases": [
+      "白吐司",
+      "切片面包"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 265,
+    "protein_per_100g": 7.9,
+    "carbs_per_100g": 49,
+    "fat_per_100g": 3.2,
+    "fiber_per_100g": 2.7,
+    "sugar_per_100g": 5,
+    "sodium_per_100g": 491,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.7,
+    "gi": 75,
+    "gl": 20,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.1,
+      "B2": 0.08,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 49,
+      "iron": 1,
+      "potassium": 100,
+      "zinc": 0.5,
+      "magnesium": 24,
+      "sodium": 491
+    },
+    "is_verified": true
+  },
+  {
+    "name": "燕麦片(即食)",
+    "name_en": "Oatmeal (Instant)",
+    "aliases": [
+      "即食燕麦",
+      "快熟燕麦"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 379,
+    "protein_per_100g": 13.2,
+    "carbs_per_100g": 61.6,
+    "fat_per_100g": 7,
+    "fiber_per_100g": 10.1,
+    "sugar_per_100g": 1.2,
+    "sodium_per_100g": 4,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 1.2,
+    "gi": 55,
+    "gl": 21,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.46,
+      "B2": 0.13,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 54,
+      "iron": 4,
+      "potassium": 362,
+      "zinc": 2.6,
+      "magnesium": 128,
+      "sodium": 4
+    },
+    "is_verified": true
+  },
+  {
+    "name": "小米粥",
+    "name_en": "Millet Congee",
+    "aliases": [
+      "小米稀饭"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 46,
+    "protein_per_100g": 1.4,
+    "carbs_per_100g": 8.4,
+    "fat_per_100g": 0.7,
+    "fiber_per_100g": 0.8,
+    "sugar_per_100g": 0.2,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.4,
+      "potassium": 55,
+      "zinc": 0.3,
+      "magnesium": 15,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "糙米饭(熟)",
+    "name_en": "Brown Rice (Cooked)",
+    "aliases": [
+      "糙米饭",
+      "玄米饭"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 123,
+    "protein_per_100g": 2.7,
+    "carbs_per_100g": 25.6,
+    "fat_per_100g": 0.9,
+    "fiber_per_100g": 1.6,
+    "sugar_per_100g": 0.4,
+    "sodium_per_100g": 4,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": 55,
+    "gl": 14,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.08,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.4,
+      "potassium": 79,
+      "zinc": 0.7,
+      "magnesium": 39,
+      "sodium": 4
+    },
+    "is_verified": true
+  },
+  {
+    "name": "意大利面(煮)",
+    "name_en": "Pasta (Cooked)",
+    "aliases": [
+      "意面",
+      "通心粉"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 131,
+    "protein_per_100g": 5.2,
+    "carbs_per_100g": 24.9,
+    "fat_per_100g": 0.9,
+    "fiber_per_100g": 1.8,
+    "sugar_per_100g": 0.6,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": 49,
+    "gl": 16,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 7,
+      "iron": 0.5,
+      "potassium": 44,
+      "zinc": 0.5,
+      "magnesium": 18,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "饺子(猪肉白菜,熟)",
+    "name_en": "Dumplings (Pork & Cabbage, Cooked)",
+    "aliases": [
+      "水饺",
+      "煮饺"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 179,
+    "protein_per_100g": 7.5,
+    "carbs_per_100g": 20,
+    "fat_per_100g": 7.8,
+    "fiber_per_100g": 1.2,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 320,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 2.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 8,
+      "C": 2,
+      "D": 0.1,
+      "B1": 0.08,
+      "B2": 0.05,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 25,
+      "iron": 0.8,
+      "potassium": 150,
+      "zinc": 0.6,
+      "magnesium": 15,
+      "sodium": 320
+    },
+    "is_verified": true
+  },
+  {
+    "name": "包子(猪肉大葱,熟)",
+    "name_en": "Steamed Bun (Pork & Scallion)",
+    "aliases": [
+      "肉包子",
+      "大包子"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 227,
+    "protein_per_100g": 8.3,
+    "carbs_per_100g": 29,
+    "fat_per_100g": 8.7,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 1.8,
+    "sodium_per_100g": 400,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 1,
+      "D": 0.1,
+      "B1": 0.1,
+      "B2": 0.06,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 28,
+      "iron": 0.9,
+      "potassium": 140,
+      "zinc": 0.7,
+      "magnesium": 16,
+      "sodium": 400
+    },
+    "is_verified": true
+  },
+  {
+    "name": "烧卖",
+    "name_en": "Shumai (Siu Mai)",
+    "aliases": [
+      "烧麦",
+      "干蒸"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 175,
+    "protein_per_100g": 8.2,
+    "carbs_per_100g": 20.5,
+    "fat_per_100g": 7,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 350,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 2.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.06,
+      "B2": 0.05,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 20,
+      "iron": 0.7,
+      "potassium": 155,
+      "zinc": 0.6,
+      "magnesium": 14,
+      "sodium": 350
+    },
+    "is_verified": true
+  },
+  {
+    "name": "油条",
+    "name_en": "Deep-Fried Dough Stick (Youtiao)",
+    "aliases": [
+      "油炸鬼",
+      "馃子"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 386,
+    "protein_per_100g": 6.9,
+    "carbs_per_100g": 51,
+    "fat_per_100g": 17.6,
+    "fiber_per_100g": 0.9,
+    "sugar_per_100g": 2.5,
+    "sodium_per_100g": 585,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 4,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 20,
+      "iron": 0.8,
+      "potassium": 70,
+      "zinc": 0.5,
+      "magnesium": 13,
+      "sodium": 585
+    },
+    "is_verified": true
+  },
+  {
+    "name": "手抓饼",
+    "name_en": "Hand-Pulled Pancake",
+    "aliases": [
+      "葱抓饼",
+      "烙饼"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 331,
+    "protein_per_100g": 6.5,
+    "carbs_per_100g": 42,
+    "fat_per_100g": 15,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 2,
+    "sodium_per_100g": 500,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 4.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 2,
+      "C": 0,
+      "D": 0,
+      "B1": 0.05,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 0.7,
+      "potassium": 90,
+      "zinc": 0.4,
+      "magnesium": 12,
+      "sodium": 500
+    },
+    "is_verified": true
+  },
+  {
+    "name": "粽子(肉粽)",
+    "name_en": "Zongzi (Meat Rice Dumpling)",
+    "aliases": [
+      "肉粽",
+      "咸粽"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 195,
+    "protein_per_100g": 6,
+    "carbs_per_100g": 28,
+    "fat_per_100g": 7,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 380,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 2,
+      "C": 0,
+      "D": 0,
+      "B1": 0.06,
+      "B2": 0.04,
+      "B12": 0.2
+    },
+    "minerals": {
+      "calcium": 18,
+      "iron": 0.8,
+      "potassium": 120,
+      "zinc": 0.6,
+      "magnesium": 18,
+      "sodium": 380
+    },
+    "is_verified": true
+  },
+  {
+    "name": "汤圆(黑芝麻)",
+    "name_en": "Tangyuan (Black Sesame)",
+    "aliases": [
+      "元宵",
+      "汤团"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 231,
+    "protein_per_100g": 4,
+    "carbs_per_100g": 35,
+    "fat_per_100g": 8.5,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 12,
+    "sodium_per_100g": 80,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 2.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 2,
+      "C": 0,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 40,
+      "iron": 0.8,
+      "potassium": 85,
+      "zinc": 0.4,
+      "magnesium": 15,
+      "sodium": 80
+    },
+    "is_verified": true
+  },
+  {
+    "name": "红薯(蒸)",
+    "name_en": "Sweet Potato (Steamed)",
+    "aliases": [
+      "蒸地瓜",
+      "蒸番薯"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 86,
+    "protein_per_100g": 1.6,
+    "carbs_per_100g": 20.1,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 3,
+    "sugar_per_100g": 4.2,
+    "sodium_per_100g": 55,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": 54,
+    "gl": 11,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 709,
+      "C": 2.4,
+      "D": 0,
+      "B1": 0.08,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 30,
+      "iron": 0.6,
+      "potassium": 337,
+      "zinc": 0.3,
+      "magnesium": 25,
+      "sodium": 55
+    },
+    "is_verified": true
+  },
+  {
+    "name": "玉米(煮)",
+    "name_en": "Corn (Boiled)",
+    "aliases": [
+      "煮玉米",
+      "水煮玉米"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 96,
+    "protein_per_100g": 3.3,
+    "carbs_per_100g": 19,
+    "fat_per_100g": 1.2,
+    "fiber_per_100g": 2.4,
+    "sugar_per_100g": 6.3,
+    "sodium_per_100g": 15,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": 55,
+    "gl": 10,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 9,
+      "C": 6.8,
+      "D": 0,
+      "B1": 0.16,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 2,
+      "iron": 0.5,
+      "potassium": 270,
+      "zinc": 0.5,
+      "magnesium": 37,
+      "sodium": 15
+    },
+    "is_verified": true
+  },
+  {
+    "name": "土豆泥",
+    "name_en": "Mashed Potato",
+    "aliases": [
+      "马铃薯泥",
+      "薯泥"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 88,
+    "protein_per_100g": 1.9,
+    "carbs_per_100g": 15,
+    "fat_per_100g": 2.1,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 0.8,
+    "sodium_per_100g": 310,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.9,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 10,
+      "C": 6,
+      "D": 0.1,
+      "B1": 0.05,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 18,
+      "iron": 0.3,
+      "potassium": 328,
+      "zinc": 0.3,
+      "magnesium": 18,
+      "sodium": 310
+    },
+    "is_verified": true
+  },
+  {
+    "name": "年糕",
+    "name_en": "Rice Cake (Niangao)",
+    "aliases": [
+      "白年糕",
+      "水磨年糕"
+    ],
+    "category": "grain_staple",
+    "calories_per_100g": 154,
+    "protein_per_100g": 3.3,
+    "carbs_per_100g": 34,
+    "fat_per_100g": 0.6,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 150,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.01,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 0.4,
+      "potassium": 30,
+      "zinc": 0.4,
+      "magnesium": 8,
+      "sodium": 150
+    },
+    "is_verified": true
+  },
+  {
+    "name": "全脂牛奶",
+    "name_en": "Whole Milk",
+    "aliases": [
+      "全脂牛乳",
+      "纯牛奶"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 61,
+    "protein_per_100g": 3,
+    "carbs_per_100g": 4.8,
+    "fat_per_100g": 3.2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 4.8,
+    "sodium_per_100g": 44,
+    "cholesterol_per_100g": 15,
+    "saturated_fat_per_100g": 2.1,
+    "gi": 28,
+    "gl": 2,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 28,
+      "C": 0,
+      "D": 1,
+      "B1": 0.04,
+      "B2": 0.18,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 113,
+      "iron": 0,
+      "potassium": 150,
+      "zinc": 0.4,
+      "magnesium": 10,
+      "sodium": 44
+    },
+    "is_verified": true
+  },
+  {
+    "name": "脱脂牛奶",
+    "name_en": "Skim Milk",
+    "aliases": [
+      "脱脂牛乳",
+      "无脂牛奶"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 34,
+    "protein_per_100g": 3.4,
+    "carbs_per_100g": 5,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 5,
+    "sodium_per_100g": 44,
+    "cholesterol_per_100g": 2,
+    "saturated_fat_per_100g": 0,
+    "gi": 32,
+    "gl": 2,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 35,
+      "C": 0,
+      "D": 1.2,
+      "B1": 0.04,
+      "B2": 0.18,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 122,
+      "iron": 0,
+      "potassium": 156,
+      "zinc": 0.4,
+      "magnesium": 11,
+      "sodium": 44
+    },
+    "is_verified": true
+  },
+  {
+    "name": "酸奶(原味)",
+    "name_en": "Yogurt (Plain)",
+    "aliases": [
+      "酸牛奶",
+      "原味酸奶"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 61,
+    "protein_per_100g": 3.5,
+    "carbs_per_100g": 7,
+    "fat_per_100g": 2.5,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 7,
+    "sodium_per_100g": 46,
+    "cholesterol_per_100g": 13,
+    "saturated_fat_per_100g": 1.6,
+    "gi": 33,
+    "gl": 4,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 26,
+      "C": 0,
+      "D": 0.5,
+      "B1": 0.04,
+      "B2": 0.18,
+      "B12": 0.4
+    },
+    "minerals": {
+      "calcium": 121,
+      "iron": 0.1,
+      "potassium": 155,
+      "zinc": 0.5,
+      "magnesium": 12,
+      "sodium": 46
+    },
+    "is_verified": true
+  },
+  {
+    "name": "希腊酸奶",
+    "name_en": "Greek Yogurt (Plain)",
+    "aliases": [
+      "脱乳清酸奶",
+      "浓缩酸奶"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 97,
+    "protein_per_100g": 9,
+    "carbs_per_100g": 4,
+    "fat_per_100g": 5,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 3.2,
+    "sodium_per_100g": 35,
+    "cholesterol_per_100g": 12,
+    "saturated_fat_per_100g": 2.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 16,
+      "C": 0,
+      "D": 0.7,
+      "B1": 0.04,
+      "B2": 0.22,
+      "B12": 0.6
+    },
+    "minerals": {
+      "calcium": 110,
+      "iron": 0.1,
+      "potassium": 140,
+      "zinc": 0.6,
+      "magnesium": 11,
+      "sodium": 35
+    },
+    "is_verified": true
+  },
+  {
+    "name": "奶酪(切达)",
+    "name_en": "Cheddar Cheese",
+    "aliases": [
+      "车打芝士",
+      "切达干酪"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 403,
+    "protein_per_100g": 24.9,
+    "carbs_per_100g": 1.3,
+    "fat_per_100g": 33.1,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.5,
+    "sodium_per_100g": 621,
+    "cholesterol_per_100g": 105,
+    "saturated_fat_per_100g": 21,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 265,
+      "C": 0,
+      "D": 0.6,
+      "B1": 0.03,
+      "B2": 0.38,
+      "B12": 1.1
+    },
+    "minerals": {
+      "calcium": 721,
+      "iron": 0.1,
+      "potassium": 98,
+      "zinc": 3.1,
+      "magnesium": 28,
+      "sodium": 621
+    },
+    "is_verified": true
+  },
+  {
+    "name": "奶油奶酪",
+    "name_en": "Cream Cheese",
+    "aliases": [
+      "奶油芝士",
+      "奶油干酪"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 342,
+    "protein_per_100g": 6,
+    "carbs_per_100g": 4.1,
+    "fat_per_100g": 34.2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 3.2,
+    "sodium_per_100g": 314,
+    "cholesterol_per_100g": 101,
+    "saturated_fat_per_100g": 19.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 294,
+      "C": 0,
+      "D": 0.5,
+      "B1": 0.02,
+      "B2": 0.14,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 98,
+      "iron": 0.1,
+      "potassium": 121,
+      "zinc": 0.5,
+      "magnesium": 7,
+      "sodium": 314
+    },
+    "is_verified": true
+  },
+  {
+    "name": "黄油",
+    "name_en": "Butter",
+    "aliases": [
+      "牛油",
+      "黃油"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 717,
+    "protein_per_100g": 0.9,
+    "carbs_per_100g": 0.1,
+    "fat_per_100g": 81.1,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.1,
+    "sodium_per_100g": 643,
+    "cholesterol_per_100g": 215,
+    "saturated_fat_per_100g": 51.4,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 684,
+      "C": 0,
+      "D": 1.5,
+      "B1": 0.01,
+      "B2": 0.03,
+      "B12": 0.2
+    },
+    "minerals": {
+      "calcium": 24,
+      "iron": 0,
+      "potassium": 24,
+      "zinc": 0.1,
+      "magnesium": 2,
+      "sodium": 643
+    },
+    "is_verified": true
+  },
+  {
+    "name": "炼乳",
+    "name_en": "Sweetened Condensed Milk",
+    "aliases": [
+      "甜炼乳",
+      "加糖炼乳"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 321,
+    "protein_per_100g": 7.9,
+    "carbs_per_100g": 54.4,
+    "fat_per_100g": 8.7,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 54.4,
+    "sodium_per_100g": 127,
+    "cholesterol_per_100g": 29,
+    "saturated_fat_per_100g": 5.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 74,
+      "C": 2,
+      "D": 0.2,
+      "B1": 0.08,
+      "B2": 0.38,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 284,
+      "iron": 0.2,
+      "potassium": 335,
+      "zinc": 1,
+      "magnesium": 24,
+      "sodium": 127
+    },
+    "is_verified": true
+  },
+  {
+    "name": "冰淇淋(香草)",
+    "name_en": "Ice Cream (Vanilla)",
+    "aliases": [
+      "雪糕",
+      "香草冰淇淋"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 207,
+    "protein_per_100g": 3.5,
+    "carbs_per_100g": 24,
+    "fat_per_100g": 11,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 21,
+    "sodium_per_100g": 80,
+    "cholesterol_per_100g": 44,
+    "saturated_fat_per_100g": 6.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 118,
+      "C": 0.5,
+      "D": 0.2,
+      "B1": 0.03,
+      "B2": 0.16,
+      "B12": 0.4
+    },
+    "minerals": {
+      "calcium": 128,
+      "iron": 0.1,
+      "potassium": 199,
+      "zinc": 0.3,
+      "magnesium": 14,
+      "sodium": 80
+    },
+    "is_verified": true
+  },
+  {
+    "name": "酸奶油",
+    "name_en": "Sour Cream",
+    "aliases": [
+      "发酵奶油",
+      "酸忌廉"
+    ],
+    "category": "dairy",
+    "calories_per_100g": 198,
+    "protein_per_100g": 2.4,
+    "carbs_per_100g": 4.6,
+    "fat_per_100g": 19.4,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 3.4,
+    "sodium_per_100g": 73,
+    "cholesterol_per_100g": 59,
+    "saturated_fat_per_100g": 10.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 124,
+      "C": 0.9,
+      "D": 0.2,
+      "B1": 0.04,
+      "B2": 0.14,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 101,
+      "iron": 0.1,
+      "potassium": 125,
+      "zinc": 0.3,
+      "magnesium": 10,
+      "sodium": 73
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鸡蛋(整,煮)",
+    "name_en": "Egg (Whole, Boiled)",
+    "aliases": [
+      "煮鸡蛋",
+      "白煮蛋"
+    ],
+    "category": "egg",
+    "calories_per_100g": 155,
+    "protein_per_100g": 12.6,
+    "carbs_per_100g": 1.1,
+    "fat_per_100g": 11,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 1.1,
+    "sodium_per_100g": 124,
+    "cholesterol_per_100g": 373,
+    "saturated_fat_per_100g": 3.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 160,
+      "C": 0,
+      "D": 2,
+      "B1": 0.04,
+      "B2": 0.25,
+      "B12": 1.1
+    },
+    "minerals": {
+      "calcium": 50,
+      "iron": 1.2,
+      "potassium": 126,
+      "zinc": 1.1,
+      "magnesium": 10,
+      "sodium": 124
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鸡蛋白(煮)",
+    "name_en": "Egg White (Boiled)",
+    "aliases": [
+      "蛋清",
+      "蛋白"
+    ],
+    "category": "egg",
+    "calories_per_100g": 52,
+    "protein_per_100g": 10.9,
+    "carbs_per_100g": 0.7,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.7,
+    "sodium_per_100g": 166,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.44,
+      "B12": 0.1
+    },
+    "minerals": {
+      "calcium": 7,
+      "iron": 0.1,
+      "potassium": 163,
+      "zinc": 0,
+      "magnesium": 11,
+      "sodium": 166
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鸡蛋黄(煮)",
+    "name_en": "Egg Yolk (Boiled)",
+    "aliases": [
+      "蛋黄"
+    ],
+    "category": "egg",
+    "calories_per_100g": 322,
+    "protein_per_100g": 15.9,
+    "carbs_per_100g": 3.6,
+    "fat_per_100g": 26.5,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.6,
+    "sodium_per_100g": 48,
+    "cholesterol_per_100g": 1085,
+    "saturated_fat_per_100g": 9.6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 381,
+      "C": 0,
+      "D": 5.5,
+      "B1": 0.1,
+      "B2": 0.53,
+      "B12": 2
+    },
+    "minerals": {
+      "calcium": 129,
+      "iron": 2.7,
+      "potassium": 109,
+      "zinc": 2.3,
+      "magnesium": 5,
+      "sodium": 48
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鸭蛋(咸)",
+    "name_en": "Salted Duck Egg",
+    "aliases": [
+      "咸鸭蛋",
+      "咸蛋"
+    ],
+    "category": "egg",
+    "calories_per_100g": 190,
+    "protein_per_100g": 12.7,
+    "carbs_per_100g": 2.2,
+    "fat_per_100g": 13.7,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 2700,
+    "cholesterol_per_100g": 590,
+    "saturated_fat_per_100g": 4.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 135,
+      "C": 0,
+      "D": 1.5,
+      "B1": 0.05,
+      "B2": 0.28,
+      "B12": 1.3
+    },
+    "minerals": {
+      "calcium": 102,
+      "iron": 3.6,
+      "potassium": 145,
+      "zinc": 1.5,
+      "magnesium": 12,
+      "sodium": 2700
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鹌鹑蛋",
+    "name_en": "Quail Egg",
+    "aliases": [
+      "鹑蛋"
+    ],
+    "category": "egg",
+    "calories_per_100g": 160,
+    "protein_per_100g": 12.8,
+    "carbs_per_100g": 0.4,
+    "fat_per_100g": 11.1,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.4,
+    "sodium_per_100g": 141,
+    "cholesterol_per_100g": 844,
+    "saturated_fat_per_100g": 3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 180,
+      "C": 0,
+      "D": 1.5,
+      "B1": 0.06,
+      "B2": 0.42,
+      "B12": 1.6
+    },
+    "minerals": {
+      "calcium": 55,
+      "iron": 3.7,
+      "potassium": 131,
+      "zinc": 1.3,
+      "magnesium": 13,
+      "sodium": 141
+    },
+    "is_verified": true
+  },
+  {
+    "name": "黄豆(干)",
+    "name_en": "Soybeans (Dry)",
+    "aliases": [
+      "大豆",
+      "黄豆"
+    ],
+    "category": "legume",
+    "calories_per_100g": 446,
+    "protein_per_100g": 36.5,
+    "carbs_per_100g": 30.2,
+    "fat_per_100g": 19.9,
+    "fiber_per_100g": 15.5,
+    "sugar_per_100g": 7.3,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 2.9,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 1,
+      "C": 0,
+      "D": 0,
+      "B1": 0.68,
+      "B2": 0.22,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 191,
+      "iron": 8.5,
+      "potassium": 1503,
+      "zinc": 3.6,
+      "magnesium": 220,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "黑豆(干)",
+    "name_en": "Black Beans (Dry)",
+    "aliases": [
+      "黑大豆",
+      "乌豆"
+    ],
+    "category": "legume",
+    "calories_per_100g": 401,
+    "protein_per_100g": 36,
+    "carbs_per_100g": 33.6,
+    "fat_per_100g": 15.9,
+    "fiber_per_100g": 15.5,
+    "sugar_per_100g": 2.5,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 2.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0,
+      "B1": 0.55,
+      "B2": 0.18,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 224,
+      "iron": 7,
+      "potassium": 1377,
+      "zinc": 3.5,
+      "magnesium": 200,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "红豆(干)",
+    "name_en": "Red Beans (Adzuki, Dry)",
+    "aliases": [
+      "赤豆",
+      "小豆"
+    ],
+    "category": "legume",
+    "calories_per_100g": 324,
+    "protein_per_100g": 20.2,
+    "carbs_per_100g": 60.7,
+    "fat_per_100g": 0.6,
+    "fiber_per_100g": 12.7,
+    "sugar_per_100g": 2,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 1,
+      "C": 0,
+      "D": 0,
+      "B1": 0.33,
+      "B2": 0.11,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 75,
+      "iron": 5,
+      "potassium": 860,
+      "zinc": 2.5,
+      "magnesium": 138,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "绿豆(干)",
+    "name_en": "Mung Beans (Dry)",
+    "aliases": [
+      "青小豆",
+      "绿豆子"
+    ],
+    "category": "legume",
+    "calories_per_100g": 347,
+    "protein_per_100g": 21.6,
+    "carbs_per_100g": 62.6,
+    "fat_per_100g": 1.2,
+    "fiber_per_100g": 16.3,
+    "sugar_per_100g": 6.6,
+    "sodium_per_100g": 3,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 3,
+      "C": 0,
+      "D": 0,
+      "B1": 0.33,
+      "B2": 0.11,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 81,
+      "iron": 5.7,
+      "potassium": 1246,
+      "zinc": 2.4,
+      "magnesium": 125,
+      "sodium": 3
+    },
+    "is_verified": true
+  },
+  {
+    "name": "毛豆(煮)",
+    "name_en": "Edamame (Boiled)",
+    "aliases": [
+      "煮毛豆",
+      "盐水毛豆"
+    ],
+    "category": "legume",
+    "calories_per_100g": 131,
+    "protein_per_100g": 11.9,
+    "carbs_per_100g": 10,
+    "fat_per_100g": 5.2,
+    "fiber_per_100g": 5.5,
+    "sugar_per_100g": 2.3,
+    "sodium_per_100g": 245,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 4,
+      "C": 12,
+      "D": 0,
+      "B1": 0.2,
+      "B2": 0.09,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 70,
+      "iron": 2.2,
+      "potassium": 478,
+      "zinc": 1,
+      "magnesium": 65,
+      "sodium": 245
+    },
+    "is_verified": true
+  },
+  {
+    "name": "豆腐(北)",
+    "name_en": "Tofu (Firm/Northern Style)",
+    "aliases": [
+      "北豆腐",
+      "硬豆腐"
+    ],
+    "category": "legume",
+    "calories_per_100g": 76,
+    "protein_per_100g": 8.1,
+    "carbs_per_100g": 2.8,
+    "fat_per_100g": 3.7,
+    "fiber_per_100g": 0.4,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 7,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.06,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 105,
+      "iron": 1.4,
+      "potassium": 125,
+      "zinc": 0.6,
+      "magnesium": 39,
+      "sodium": 7
+    },
+    "is_verified": true
+  },
+  {
+    "name": "豆腐(南)",
+    "name_en": "Tofu (Soft/Southern Style)",
+    "aliases": [
+      "南豆腐",
+      "嫩豆腐"
+    ],
+    "category": "legume",
+    "calories_per_100g": 57,
+    "protein_per_100g": 6.2,
+    "carbs_per_100g": 2.6,
+    "fat_per_100g": 2.5,
+    "fiber_per_100g": 0.2,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 5,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.4,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 78,
+      "iron": 1,
+      "potassium": 105,
+      "zinc": 0.4,
+      "magnesium": 28,
+      "sodium": 5
+    },
+    "is_verified": true
+  },
+  {
+    "name": "豆浆(无糖)",
+    "name_en": "Soy Milk (Unsweetened)",
+    "aliases": [
+      "豆乳",
+      "无糖豆浆"
+    ],
+    "category": "legume",
+    "calories_per_100g": 33,
+    "protein_per_100g": 3.3,
+    "carbs_per_100g": 1.2,
+    "fat_per_100g": 1.2,
+    "fiber_per_100g": 0.2,
+    "sugar_per_100g": 0.4,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0.5,
+      "B1": 0.02,
+      "B2": 0.04,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 0.5,
+      "potassium": 118,
+      "zinc": 0.2,
+      "magnesium": 15,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "豆腐皮",
+    "name_en": "Tofu Skin (Doufu Pi)",
+    "aliases": [
+      "千张",
+      "百叶"
+    ],
+    "category": "legume",
+    "calories_per_100g": 409,
+    "protein_per_100g": 44.6,
+    "carbs_per_100g": 18.8,
+    "fat_per_100g": 17.4,
+    "fiber_per_100g": 0.7,
+    "sugar_per_100g": 2,
+    "sodium_per_100g": 5,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 2.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.13,
+      "B2": 0.06,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 200,
+      "iron": 5,
+      "potassium": 550,
+      "zinc": 3,
+      "magnesium": 72,
+      "sodium": 5
+    },
+    "is_verified": true
+  },
+  {
+    "name": "腐竹(干)",
+    "name_en": "Dried Bean Curd Sticks",
+    "aliases": [
+      "枝竹",
+      "腐皮"
+    ],
+    "category": "legume",
+    "calories_per_100g": 459,
+    "protein_per_100g": 50.5,
+    "carbs_per_100g": 22.3,
+    "fat_per_100g": 21.7,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 2.5,
+    "sodium_per_100g": 5,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 3.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.15,
+      "B2": 0.07,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 231,
+      "iron": 5.8,
+      "potassium": 680,
+      "zinc": 3.5,
+      "magnesium": 85,
+      "sodium": 5
+    },
+    "is_verified": true
+  },
+  {
+    "name": "薯片(原味)",
+    "name_en": "Potato Chips (Original)",
+    "aliases": [
+      "薯片",
+      "原味薯片"
+    ],
+    "category": "snack",
+    "calories_per_100g": 536,
+    "protein_per_100g": 5.7,
+    "carbs_per_100g": 52.9,
+    "fat_per_100g": 34.6,
+    "fiber_per_100g": 4.5,
+    "sugar_per_100g": 2,
+    "sodium_per_100g": 525,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 5.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 8,
+      "D": 0,
+      "B1": 0.1,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 20,
+      "iron": 1,
+      "potassium": 1196,
+      "zinc": 1,
+      "magnesium": 53,
+      "sodium": 525
+    },
+    "is_verified": true
+  },
+  {
+    "name": "巧克力(牛奶)",
+    "name_en": "Milk Chocolate",
+    "aliases": [
+      "牛奶巧克力",
+      "朱古力"
+    ],
+    "category": "snack",
+    "calories_per_100g": 535,
+    "protein_per_100g": 7.6,
+    "carbs_per_100g": 59.4,
+    "fat_per_100g": 30,
+    "fiber_per_100g": 3.4,
+    "sugar_per_100g": 51.5,
+    "sodium_per_100g": 79,
+    "cholesterol_per_100g": 23,
+    "saturated_fat_per_100g": 18.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 50,
+      "C": 0,
+      "D": 0,
+      "B1": 0.05,
+      "B2": 0.3,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 189,
+      "iron": 2.4,
+      "potassium": 372,
+      "zinc": 2.3,
+      "magnesium": 63,
+      "sodium": 79
+    },
+    "is_verified": true
+  },
+  {
+    "name": "夹心饼干",
+    "name_en": "Cream-Filled Biscuit",
+    "aliases": [
+      "夹心饼",
+      "奶油饼干"
+    ],
+    "category": "snack",
+    "calories_per_100g": 478,
+    "protein_per_100g": 6.5,
+    "carbs_per_100g": 68,
+    "fat_per_100g": 20,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 25,
+    "sodium_per_100g": 350,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 2,
+      "C": 0,
+      "D": 0,
+      "B1": 0.08,
+      "B2": 0.05,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 35,
+      "iron": 1.2,
+      "potassium": 120,
+      "zinc": 0.5,
+      "magnesium": 18,
+      "sodium": 350
+    },
+    "is_verified": true
+  },
+  {
+    "name": "蛋糕(海绵)",
+    "name_en": "Sponge Cake",
+    "aliases": [
+      "海绵蛋糕",
+      "松糕"
+    ],
+    "category": "snack",
+    "calories_per_100g": 297,
+    "protein_per_100g": 6,
+    "carbs_per_100g": 53,
+    "fat_per_100g": 7,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 30,
+    "sodium_per_100g": 250,
+    "cholesterol_per_100g": 55,
+    "saturated_fat_per_100g": 2.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 30,
+      "C": 0,
+      "D": 0.3,
+      "B1": 0.05,
+      "B2": 0.1,
+      "B12": 0.2
+    },
+    "minerals": {
+      "calcium": 45,
+      "iron": 1,
+      "potassium": 90,
+      "zinc": 0.4,
+      "magnesium": 10,
+      "sodium": 250
+    },
+    "is_verified": true
+  },
+  {
+    "name": "冰淇淋",
+    "name_en": "Ice Cream",
+    "aliases": [
+      "雪糕",
+      "冰激凌"
+    ],
+    "category": "snack",
+    "calories_per_100g": 207,
+    "protein_per_100g": 3.5,
+    "carbs_per_100g": 24,
+    "fat_per_100g": 11,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 21,
+    "sodium_per_100g": 80,
+    "cholesterol_per_100g": 44,
+    "saturated_fat_per_100g": 6.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 118,
+      "C": 0.5,
+      "D": 0.2,
+      "B1": 0.03,
+      "B2": 0.16,
+      "B12": 0.4
+    },
+    "minerals": {
+      "calcium": 128,
+      "iron": 0.1,
+      "potassium": 199,
+      "zinc": 0.3,
+      "magnesium": 14,
+      "sodium": 80
+    },
+    "is_verified": true
+  },
+  {
+    "name": "杏仁(炒)",
+    "name_en": "Almonds (Roasted)",
+    "aliases": [
+      "炒杏仁",
+      "美国大杏仁"
+    ],
+    "category": "snack",
+    "calories_per_100g": 579,
+    "protein_per_100g": 21.2,
+    "carbs_per_100g": 21.6,
+    "fat_per_100g": 49.9,
+    "fiber_per_100g": 12.5,
+    "sugar_per_100g": 4.4,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 3.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.1,
+      "B2": 1,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 264,
+      "iron": 3.7,
+      "potassium": 705,
+      "zinc": 3.1,
+      "magnesium": 268,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "核桃(干)",
+    "name_en": "Walnuts (Dried)",
+    "aliases": [
+      "胡桃",
+      "核桃仁"
+    ],
+    "category": "snack",
+    "calories_per_100g": 654,
+    "protein_per_100g": 15.2,
+    "carbs_per_100g": 13.7,
+    "fat_per_100g": 65.2,
+    "fiber_per_100g": 6.7,
+    "sugar_per_100g": 2.6,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 6.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 1,
+      "C": 1.3,
+      "D": 0,
+      "B1": 0.15,
+      "B2": 0.11,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 98,
+      "iron": 2.9,
+      "potassium": 441,
+      "zinc": 3.1,
+      "magnesium": 158,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "腰果(炒)",
+    "name_en": "Cashews (Roasted)",
+    "aliases": [
+      "炒腰果",
+      "腰果仁"
+    ],
+    "category": "snack",
+    "calories_per_100g": 553,
+    "protein_per_100g": 18.2,
+    "carbs_per_100g": 30.2,
+    "fat_per_100g": 43.9,
+    "fiber_per_100g": 3.3,
+    "sugar_per_100g": 5.9,
+    "sodium_per_100g": 16,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 7.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.42,
+      "B2": 0.2,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 37,
+      "iron": 6,
+      "potassium": 565,
+      "zinc": 5.6,
+      "magnesium": 260,
+      "sodium": 16
+    },
+    "is_verified": true
+  },
+  {
+    "name": "花生(炒)",
+    "name_en": "Peanuts (Roasted)",
+    "aliases": [
+      "炒花生",
+      "花生米"
+    ],
+    "category": "snack",
+    "calories_per_100g": 585,
+    "protein_per_100g": 24.4,
+    "carbs_per_100g": 21.5,
+    "fat_per_100g": 49.7,
+    "fiber_per_100g": 8.5,
+    "sugar_per_100g": 3.4,
+    "sodium_per_100g": 12,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 6.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.13,
+      "B2": 0.1,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 54,
+      "iron": 2.3,
+      "potassium": 634,
+      "zinc": 2.8,
+      "magnesium": 176,
+      "sodium": 12
+    },
+    "is_verified": true
+  },
+  {
+    "name": "葵花籽(炒)",
+    "name_en": "Sunflower Seeds (Roasted)",
+    "aliases": [
+      "炒瓜子",
+      "瓜子仁"
+    ],
+    "category": "snack",
+    "calories_per_100g": 582,
+    "protein_per_100g": 19.3,
+    "carbs_per_100g": 20,
+    "fat_per_100g": 49.8,
+    "fiber_per_100g": 8.6,
+    "sugar_per_100g": 2.6,
+    "sodium_per_100g": 9,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 5.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.36,
+      "B2": 0.2,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 78,
+      "iron": 5.3,
+      "potassium": 645,
+      "zinc": 5,
+      "magnesium": 325,
+      "sodium": 9
+    },
+    "is_verified": true
+  },
+  {
+    "name": "牛肉干",
+    "name_en": "Beef Jerky",
+    "aliases": [
+      "风干牛肉",
+      "牛肉脯"
+    ],
+    "category": "snack",
+    "calories_per_100g": 300,
+    "protein_per_100g": 40,
+    "carbs_per_100g": 9,
+    "fat_per_100g": 11,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 8,
+    "sodium_per_100g": 1600,
+    "cholesterol_per_100g": 95,
+    "saturated_fat_per_100g": 4.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.05,
+      "B2": 0.15,
+      "B12": 2.5
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 4.5,
+      "potassium": 480,
+      "zinc": 6,
+      "magnesium": 35,
+      "sodium": 1600
+    },
+    "is_verified": true
+  },
+  {
+    "name": "猪肉脯",
+    "name_en": "Dried Pork Slice",
+    "aliases": [
+      "猪肉干",
+      "肉脯"
+    ],
+    "category": "snack",
+    "calories_per_100g": 340,
+    "protein_per_100g": 28,
+    "carbs_per_100g": 15,
+    "fat_per_100g": 18,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 13,
+    "sodium_per_100g": 1500,
+    "cholesterol_per_100g": 85,
+    "saturated_fat_per_100g": 6.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 2,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.3,
+      "B2": 0.15,
+      "B12": 0.8
+    },
+    "minerals": {
+      "calcium": 12,
+      "iron": 2.5,
+      "potassium": 380,
+      "zinc": 3.5,
+      "magnesium": 30,
+      "sodium": 1500
+    },
+    "is_verified": true
+  },
+  {
+    "name": "海苔(烤)",
+    "name_en": "Roasted Seaweed (Nori)",
+    "aliases": [
+      "烤海苔",
+      "烤紫菜"
+    ],
+    "category": "snack",
+    "calories_per_100g": 320,
+    "protein_per_100g": 35,
+    "carbs_per_100g": 30,
+    "fat_per_100g": 8,
+    "fiber_per_100g": 25,
+    "sugar_per_100g": 5,
+    "sodium_per_100g": 700,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 1.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 300,
+      "C": 40,
+      "D": 0,
+      "B1": 0.35,
+      "B2": 1.2,
+      "B12": 3
+    },
+    "minerals": {
+      "calcium": 300,
+      "iron": 60,
+      "potassium": 2000,
+      "zinc": 4,
+      "magnesium": 120,
+      "sodium": 700
+    },
+    "is_verified": true
+  },
+  {
+    "name": "果冻",
+    "name_en": "Jelly (Gelatin Dessert)",
+    "aliases": [
+      "啫喱",
+      "果冻杯"
+    ],
+    "category": "snack",
+    "calories_per_100g": 65,
+    "protein_per_100g": 1,
+    "carbs_per_100g": 15,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 13,
+    "sodium_per_100g": 30,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0,
+      "B2": 0,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 2,
+      "iron": 0.1,
+      "potassium": 5,
+      "zinc": 0,
+      "magnesium": 1,
+      "sodium": 30
+    },
+    "is_verified": true
+  },
+  {
+    "name": "能量棒",
+    "name_en": "Energy Bar",
+    "aliases": [
+      "谷物棒",
+      "蛋白棒"
+    ],
+    "category": "snack",
+    "calories_per_100g": 390,
+    "protein_per_100g": 15,
+    "carbs_per_100g": 55,
+    "fat_per_100g": 12,
+    "fiber_per_100g": 5,
+    "sugar_per_100g": 20,
+    "sodium_per_100g": 200,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 5,
+      "D": 0.5,
+      "B1": 0.2,
+      "B2": 0.15,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 80,
+      "iron": 3,
+      "potassium": 250,
+      "zinc": 2,
+      "magnesium": 45,
+      "sodium": 200
+    },
+    "is_verified": true
+  },
+  {
+    "name": "可口可乐",
+    "name_en": "Coca-Cola",
+    "aliases": [
+      "可乐",
+      "汽水"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 42,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 10.6,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 10.6,
+    "sodium_per_100g": 4,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": null,
+    "minerals": null,
+    "is_verified": true
+  },
+  {
+    "name": "雪碧",
+    "name_en": "Sprite",
+    "aliases": [
+      "雪碧汽水",
+      "柠檬汽水"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 41,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 10.2,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 10.2,
+    "sodium_per_100g": 9,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": null,
+    "minerals": null,
+    "is_verified": true
+  },
+  {
+    "name": "橙汁(鲜榨)",
+    "name_en": "Orange Juice (Fresh)",
+    "aliases": [
+      "鲜榨橙汁",
+      "橙汁"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 45,
+    "protein_per_100g": 0.7,
+    "carbs_per_100g": 10.4,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 0.2,
+    "sugar_per_100g": 8.4,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 10,
+      "C": 50,
+      "D": 0,
+      "B1": 0.09,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 11,
+      "iron": 0.2,
+      "potassium": 200,
+      "zinc": 0.1,
+      "magnesium": 11,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "苹果汁",
+    "name_en": "Apple Juice",
+    "aliases": [
+      "蘋果汁",
+      "苹果清汁"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 46,
+    "protein_per_100g": 0.1,
+    "carbs_per_100g": 11.3,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 0.2,
+    "sugar_per_100g": 9.8,
+    "sodium_per_100g": 4,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 38,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 0.2,
+      "potassium": 101,
+      "zinc": 0.1,
+      "magnesium": 5,
+      "sodium": 4
+    },
+    "is_verified": true
+  },
+  {
+    "name": "椰汁",
+    "name_en": "Coconut Water",
+    "aliases": [
+      "椰子水",
+      "椰青水"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 19,
+    "protein_per_100g": 0.7,
+    "carbs_per_100g": 3.7,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 1.1,
+    "sugar_per_100g": 2.6,
+    "sodium_per_100g": 105,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 2.4,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.05,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 24,
+      "iron": 0.3,
+      "potassium": 250,
+      "zinc": 0.1,
+      "magnesium": 25,
+      "sodium": 105
+    },
+    "is_verified": true
+  },
+  {
+    "name": "咖啡(黑,无糖)",
+    "name_en": "Black Coffee (No Sugar)",
+    "aliases": [
+      "美式咖啡",
+      "清咖"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 2,
+    "protein_per_100g": 0.1,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.08,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 2,
+      "iron": 0.1,
+      "potassium": 49,
+      "zinc": 0.1,
+      "magnesium": 3,
+      "sodium": 1
+    },
+    "is_verified": true
+  },
+  {
+    "name": "拿铁(全脂奶)",
+    "name_en": "Latte (Whole Milk)",
+    "aliases": [
+      "拿铁咖啡",
+      "牛奶咖啡"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 56,
+    "protein_per_100g": 2.9,
+    "carbs_per_100g": 6,
+    "fat_per_100g": 2.4,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 5.5,
+    "sodium_per_100g": 44,
+    "cholesterol_per_100g": 10,
+    "saturated_fat_per_100g": 1.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 36,
+      "C": 0,
+      "D": 0.8,
+      "B1": 0.03,
+      "B2": 0.16,
+      "B12": 0.4
+    },
+    "minerals": {
+      "calcium": 120,
+      "iron": 0.1,
+      "potassium": 150,
+      "zinc": 0.4,
+      "magnesium": 12,
+      "sodium": 44
+    },
+    "is_verified": true
+  },
+  {
+    "name": "奶茶(珍珠)",
+    "name_en": "Bubble Milk Tea (with Pearls)",
+    "aliases": [
+      "珍珠奶茶",
+      "波霸奶茶"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 80,
+    "protein_per_100g": 1.5,
+    "carbs_per_100g": 14,
+    "fat_per_100g": 2,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 10,
+    "sodium_per_100g": 40,
+    "cholesterol_per_100g": 5,
+    "saturated_fat_per_100g": 1.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.01,
+      "B2": 0.05,
+      "B12": 0.1
+    },
+    "minerals": {
+      "calcium": 40,
+      "iron": 0.2,
+      "potassium": 60,
+      "zinc": 0.1,
+      "magnesium": 6,
+      "sodium": 40
+    },
+    "is_verified": true
+  },
+  {
+    "name": "啤酒(普通)",
+    "name_en": "Beer (Regular)",
+    "aliases": [
+      "啤酒",
+      "拉格啤酒"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 43,
+    "protein_per_100g": 0.5,
+    "carbs_per_100g": 3.6,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.1,
+    "sodium_per_100g": 4,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.03,
+      "B12": 0.1
+    },
+    "minerals": {
+      "calcium": 4,
+      "iron": 0.1,
+      "potassium": 27,
+      "zinc": 0.1,
+      "magnesium": 6,
+      "sodium": 4
+    },
+    "is_verified": true
+  },
+  {
+    "name": "红酒",
+    "name_en": "Red Wine",
+    "aliases": [
+      "葡萄酒",
+      "干红"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 85,
+    "protein_per_100g": 0.1,
+    "carbs_per_100g": 2.6,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.6,
+    "sodium_per_100g": 4,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 0.5,
+      "potassium": 127,
+      "zinc": 0.1,
+      "magnesium": 12,
+      "sodium": 4
+    },
+    "is_verified": true
+  },
+  {
+    "name": "白酒(52度)",
+    "name_en": "Baijiu (52% ABV)",
+    "aliases": [
+      "中国白酒",
+      "烈酒"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 311,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 0.2,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": null,
+    "minerals": null,
+    "is_verified": true
+  },
+  {
+    "name": "豆浆(甜)",
+    "name_en": "Soy Milk (Sweetened)",
+    "aliases": [
+      "甜豆浆",
+      "甜豆乳"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 43,
+    "protein_per_100g": 2.4,
+    "carbs_per_100g": 5,
+    "fat_per_100g": 1.5,
+    "fiber_per_100g": 0.2,
+    "sugar_per_100g": 4.5,
+    "sodium_per_100g": 15,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0.3,
+      "B1": 0.02,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 12,
+      "iron": 0.4,
+      "potassium": 100,
+      "zinc": 0.2,
+      "magnesium": 12,
+      "sodium": 15
+    },
+    "is_verified": true
+  },
+  {
+    "name": "运动饮料(佳得乐)",
+    "name_en": "Sports Drink (Gatorade)",
+    "aliases": [
+      "佳得乐",
+      "电解水"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 25,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 6,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 5.5,
+    "sodium_per_100g": 110,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 2,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.01,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 2,
+      "iron": 0,
+      "potassium": 30,
+      "zinc": 0,
+      "magnesium": 1,
+      "sodium": 110
+    },
+    "is_verified": true
+  },
+  {
+    "name": "苏打水",
+    "name_en": "Sparkling Water (Plain)",
+    "aliases": [
+      "气泡水",
+      "碳酸水"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 0,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 5,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": null,
+    "minerals": {
+      "calcium": 2,
+      "iron": 0,
+      "potassium": 1,
+      "zinc": 0,
+      "magnesium": 1,
+      "sodium": 5
+    },
+    "is_verified": true
+  },
+  {
+    "name": "柠檬水",
+    "name_en": "Lemon Water",
+    "aliases": [
+      "柠檬汁水",
+      "柠水"
+    ],
+    "category": "beverage",
+    "calories_per_100g": 8,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 2,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 2,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 10,
+      "D": 0,
+      "B1": 0,
+      "B2": 0,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 4,
+      "iron": 0.1,
+      "potassium": 15,
+      "zinc": 0,
+      "magnesium": 2,
+      "sodium": 2
+    },
+    "is_verified": true
+  },
+  {
+    "name": "食用油(花生油)",
+    "name_en": "Cooking Oil (Peanut Oil)",
+    "aliases": [
+      "花生油",
+      "食用油"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 899,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 99.9,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 0,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 18.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0,
+      "B2": 0,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 0,
+      "iron": 0,
+      "potassium": 0,
+      "zinc": 0,
+      "magnesium": 0,
+      "sodium": 0
+    },
+    "is_verified": true
+  },
+  {
+    "name": "橄榄油",
+    "name_en": "Olive Oil",
+    "aliases": [
+      "初榨橄榄油",
+      "橄榄油"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 899,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 99.9,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 0,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 13.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0,
+      "B2": 0,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 0,
+      "iron": 0.3,
+      "potassium": 0,
+      "zinc": 0,
+      "magnesium": 0,
+      "sodium": 0
+    },
+    "is_verified": true
+  },
+  {
+    "name": "酱油(生抽)",
+    "name_en": "Light Soy Sauce",
+    "aliases": [
+      "生抽",
+      "酱油"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 53,
+    "protein_per_100g": 8,
+    "carbs_per_100g": 4,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 5757,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.03,
+      "B2": 0.13,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 2,
+      "potassium": 180,
+      "zinc": 0.5,
+      "magnesium": 20,
+      "sodium": 5757
+    },
+    "is_verified": true
+  },
+  {
+    "name": "醋(陈醋)",
+    "name_en": "Vinegar (Aged)",
+    "aliases": [
+      "陈醋",
+      "老醋"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 18,
+    "protein_per_100g": 0.5,
+    "carbs_per_100g": 3.5,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 1700,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 0.5,
+      "potassium": 40,
+      "zinc": 0.2,
+      "magnesium": 5,
+      "sodium": 1700
+    },
+    "is_verified": true
+  },
+  {
+    "name": "蚝油",
+    "name_en": "Oyster Sauce",
+    "aliases": [
+      "蚝汁",
+      "蚝油膏"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 78,
+    "protein_per_100g": 2.8,
+    "carbs_per_100g": 14,
+    "fat_per_100g": 0.5,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 8,
+    "sodium_per_100g": 4300,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.05,
+      "B12": 0.1
+    },
+    "minerals": {
+      "calcium": 25,
+      "iron": 2,
+      "potassium": 85,
+      "zinc": 0.5,
+      "magnesium": 8,
+      "sodium": 4300
+    },
+    "is_verified": true
+  },
+  {
+    "name": "番茄酱",
+    "name_en": "Ketchup",
+    "aliases": [
+      "番茄沙司",
+      "茄汁"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 100,
+    "protein_per_100g": 1.7,
+    "carbs_per_100g": 23,
+    "fat_per_100g": 0.2,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 21,
+    "sodium_per_100g": 907,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 28,
+      "C": 4,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.05,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 0.6,
+      "potassium": 281,
+      "zinc": 0.2,
+      "magnesium": 13,
+      "sodium": 907
+    },
+    "is_verified": true
+  },
+  {
+    "name": "辣椒酱(老干妈)",
+    "name_en": "Chili Sauce (Lao Gan Ma)",
+    "aliases": [
+      "老干妈",
+      "油辣椒"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 420,
+    "protein_per_100g": 5,
+    "carbs_per_100g": 12,
+    "fat_per_100g": 38,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 5,
+    "sodium_per_100g": 1800,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 6,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 15,
+      "C": 2,
+      "D": 0,
+      "B1": 0.05,
+      "B2": 0.08,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 30,
+      "iron": 1.5,
+      "potassium": 200,
+      "zinc": 0.5,
+      "magnesium": 15,
+      "sodium": 1800
+    },
+    "is_verified": true
+  },
+  {
+    "name": "芝麻酱",
+    "name_en": "Sesame Paste",
+    "aliases": [
+      "麻酱",
+      "芝麻酱"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 595,
+    "protein_per_100g": 19.2,
+    "carbs_per_100g": 16.8,
+    "fat_per_100g": 52.7,
+    "fiber_per_100g": 14,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 50,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 7.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.26,
+      "B2": 0.18,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 975,
+      "iron": 14,
+      "potassium": 468,
+      "zinc": 5,
+      "magnesium": 346,
+      "sodium": 50
+    },
+    "is_verified": true
+  },
+  {
+    "name": "白砂糖",
+    "name_en": "White Sugar",
+    "aliases": [
+      "白糖",
+      "蔗糖"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 387,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 100,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 100,
+    "sodium_per_100g": 1,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": null,
+    "minerals": null,
+    "is_verified": true
+  },
+  {
+    "name": "蜂蜜",
+    "name_en": "Honey",
+    "aliases": [
+      "蜜糖",
+      "蜂糖"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 304,
+    "protein_per_100g": 0.3,
+    "carbs_per_100g": 82.4,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0.2,
+    "sugar_per_100g": 82.1,
+    "sodium_per_100g": 4,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0.5,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.04,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 6,
+      "iron": 0.4,
+      "potassium": 52,
+      "zinc": 0.2,
+      "magnesium": 2,
+      "sodium": 4
+    },
+    "is_verified": true
+  },
+  {
+    "name": "盐",
+    "name_en": "Table Salt",
+    "aliases": [
+      "食盐",
+      "精制盐"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 0,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 0,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 38758,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": null,
+    "minerals": {
+      "calcium": 24,
+      "iron": 0.3,
+      "potassium": 8,
+      "zinc": 0.1,
+      "magnesium": 1,
+      "sodium": 38758
+    },
+    "is_verified": true
+  },
+  {
+    "name": "味精",
+    "name_en": "MSG (Monosodium Glutamate)",
+    "aliases": [
+      "味精",
+      "味素"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 268,
+    "protein_per_100g": 40,
+    "carbs_per_100g": 26,
+    "fat_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "sodium_per_100g": 12500,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": null,
+    "minerals": {
+      "calcium": 100,
+      "iron": 1.5,
+      "potassium": 100,
+      "zinc": 0.3,
+      "magnesium": 10,
+      "sodium": 12500
+    },
+    "is_verified": true
+  },
+  {
+    "name": "胡椒粉",
+    "name_en": "Black Pepper Powder",
+    "aliases": [
+      "黑胡椒粉",
+      "胡椒"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 255,
+    "protein_per_100g": 10.4,
+    "carbs_per_100g": 64,
+    "fat_per_100g": 3.3,
+    "fiber_per_100g": 25.3,
+    "sugar_per_100g": 0.6,
+    "sodium_per_100g": 20,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 1.4,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 15,
+      "C": 0,
+      "D": 0,
+      "B1": 0.11,
+      "B2": 0.18,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 443,
+      "iron": 9.7,
+      "potassium": 1329,
+      "zinc": 1.2,
+      "magnesium": 171,
+      "sodium": 20
+    },
+    "is_verified": true
+  },
+  {
+    "name": "沙拉酱(蛋黄)",
+    "name_en": "Mayonnaise",
+    "aliases": [
+      "蛋黄酱",
+      "美乃滋"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 680,
+    "protein_per_100g": 1,
+    "carbs_per_100g": 3,
+    "fat_per_100g": 75,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 2.5,
+    "sodium_per_100g": 635,
+    "cholesterol_per_100g": 42,
+    "saturated_fat_per_100g": 11.7,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 33,
+      "C": 0,
+      "D": 0.5,
+      "B1": 0.01,
+      "B2": 0.05,
+      "B12": 0.2
+    },
+    "minerals": {
+      "calcium": 9,
+      "iron": 0.2,
+      "potassium": 20,
+      "zinc": 0.1,
+      "magnesium": 2,
+      "sodium": 635
+    },
+    "is_verified": true
+  },
+  {
+    "name": "豆瓣酱",
+    "name_en": "Fermented Bean Paste (Doubanjiang)",
+    "aliases": [
+      "豆瓣酱",
+      "辣豆瓣酱"
+    ],
+    "category": "condiment",
+    "calories_per_100g": 141,
+    "protein_per_100g": 9,
+    "carbs_per_100g": 15,
+    "fat_per_100g": 5.5,
+    "fiber_per_100g": 3,
+    "sugar_per_100g": 3,
+    "sodium_per_100g": 6000,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 2,
+      "C": 1,
+      "D": 0,
+      "B1": 0.04,
+      "B2": 0.1,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 60,
+      "iron": 3.5,
+      "potassium": 380,
+      "zinc": 1,
+      "magnesium": 30,
+      "sodium": 6000
+    },
+    "is_verified": true
+  },
+  {
+    "name": "汉堡(牛肉)",
+    "name_en": "Hamburger (Beef Patty)",
+    "aliases": [
+      "牛肉汉堡",
+      "汉堡包"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 254,
+    "protein_per_100g": 12.9,
+    "carbs_per_100g": 30,
+    "fat_per_100g": 9.7,
+    "fiber_per_100g": 1.2,
+    "sugar_per_100g": 5,
+    "sodium_per_100g": 400,
+    "cholesterol_per_100g": 32,
+    "saturated_fat_per_100g": 3.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 10,
+      "C": 1,
+      "D": 0.1,
+      "B1": 0.15,
+      "B2": 0.1,
+      "B12": 1
+    },
+    "minerals": {
+      "calcium": 80,
+      "iron": 2.5,
+      "potassium": 220,
+      "zinc": 2,
+      "magnesium": 22,
+      "sodium": 400
+    },
+    "is_verified": true
+  },
+  {
+    "name": "芝士汉堡",
+    "name_en": "Cheeseburger",
+    "aliases": [
+      "吉士汉堡",
+      "奶酪汉堡"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 303,
+    "protein_per_100g": 15,
+    "carbs_per_100g": 28,
+    "fat_per_100g": 14,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 5.5,
+    "sodium_per_100g": 520,
+    "cholesterol_per_100g": 45,
+    "saturated_fat_per_100g": 6.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 40,
+      "C": 1,
+      "D": 0.2,
+      "B1": 0.12,
+      "B2": 0.15,
+      "B12": 1.2
+    },
+    "minerals": {
+      "calcium": 150,
+      "iron": 2.3,
+      "potassium": 200,
+      "zinc": 2.5,
+      "magnesium": 25,
+      "sodium": 520
+    },
+    "is_verified": true
+  },
+  {
+    "name": "炸鸡(鸡腿)",
+    "name_en": "Fried Chicken (Drumstick)",
+    "aliases": [
+      "炸鸡腿",
+      "美式炸鸡"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 290,
+    "protein_per_100g": 21,
+    "carbs_per_100g": 12,
+    "fat_per_100g": 17.5,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 0.5,
+    "sodium_per_100g": 650,
+    "cholesterol_per_100g": 85,
+    "saturated_fat_per_100g": 3.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 20,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.06,
+      "B2": 0.12,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 20,
+      "iron": 1,
+      "potassium": 260,
+      "zinc": 1.8,
+      "magnesium": 20,
+      "sodium": 650
+    },
+    "is_verified": true
+  },
+  {
+    "name": "披萨(意式腊肠,12寸1/8)",
+    "name_en": "Pizza (Pepperoni, 1/8 of 12 inch)",
+    "aliases": [
+      "披萨",
+      "意大利薄饼"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 266,
+    "protein_per_100g": 11.4,
+    "carbs_per_100g": 30,
+    "fat_per_100g": 10.9,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 3.5,
+    "sodium_per_100g": 598,
+    "cholesterol_per_100g": 24,
+    "saturated_fat_per_100g": 4.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 32,
+      "C": 2,
+      "D": 0.2,
+      "B1": 0.2,
+      "B2": 0.18,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 150,
+      "iron": 2,
+      "potassium": 180,
+      "zinc": 1.2,
+      "magnesium": 22,
+      "sodium": 598
+    },
+    "is_verified": true
+  },
+  {
+    "name": "薯条(中份)",
+    "name_en": "French Fries (Medium)",
+    "aliases": [
+      "炸薯条",
+      "薯条"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 312,
+    "protein_per_100g": 3.4,
+    "carbs_per_100g": 41,
+    "fat_per_100g": 15,
+    "fiber_per_100g": 3.8,
+    "sugar_per_100g": 0.3,
+    "sodium_per_100g": 210,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 4,
+      "D": 0,
+      "B1": 0.1,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.6,
+      "potassium": 579,
+      "zinc": 0.5,
+      "magnesium": 25,
+      "sodium": 210
+    },
+    "is_verified": true
+  },
+  {
+    "name": "热狗",
+    "name_en": "Hot Dog",
+    "aliases": [
+      "热狗面包",
+      "法兰克福香肠包"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 290,
+    "protein_per_100g": 10.4,
+    "carbs_per_100g": 28,
+    "fat_per_100g": 15,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 4.5,
+    "sodium_per_100g": 700,
+    "cholesterol_per_100g": 45,
+    "saturated_fat_per_100g": 5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0.2,
+      "B1": 0.15,
+      "B2": 0.1,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 60,
+      "iron": 2,
+      "potassium": 150,
+      "zinc": 1,
+      "magnesium": 15,
+      "sodium": 700
+    },
+    "is_verified": true
+  },
+  {
+    "name": "三明治(火腿)",
+    "name_en": "Ham Sandwich",
+    "aliases": [
+      "火腿三明治",
+      "三文治"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 250,
+    "protein_per_100g": 11,
+    "carbs_per_100g": 30,
+    "fat_per_100g": 9,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 4,
+    "sodium_per_100g": 750,
+    "cholesterol_per_100g": 30,
+    "saturated_fat_per_100g": 2.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 10,
+      "C": 1,
+      "D": 0.1,
+      "B1": 0.12,
+      "B2": 0.08,
+      "B12": 0.4
+    },
+    "minerals": {
+      "calcium": 80,
+      "iron": 1.5,
+      "potassium": 180,
+      "zinc": 1,
+      "magnesium": 20,
+      "sodium": 750
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鸡肉卷(墨西哥)",
+    "name_en": "Chicken Burrito",
+    "aliases": [
+      "墨西哥鸡肉卷",
+      "鸡肉卷饼"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 230,
+    "protein_per_100g": 14,
+    "carbs_per_100g": 28,
+    "fat_per_100g": 7,
+    "fiber_per_100g": 2.5,
+    "sugar_per_100g": 2,
+    "sodium_per_100g": 550,
+    "cholesterol_per_100g": 35,
+    "saturated_fat_per_100g": 2.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 15,
+      "C": 5,
+      "D": 0.1,
+      "B1": 0.1,
+      "B2": 0.08,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 60,
+      "iron": 1.8,
+      "potassium": 280,
+      "zinc": 1.2,
+      "magnesium": 30,
+      "sodium": 550
+    },
+    "is_verified": true
+  },
+  {
+    "name": "炸鸡块(麦乐鸡)",
+    "name_en": "Chicken Nuggets (McNuggets)",
+    "aliases": [
+      "麦乐鸡",
+      "炸鸡块"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 280,
+    "protein_per_100g": 16,
+    "carbs_per_100g": 16,
+    "fat_per_100g": 17,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 0.5,
+    "sodium_per_100g": 600,
+    "cholesterol_per_100g": 45,
+    "saturated_fat_per_100g": 3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.06,
+      "B2": 0.08,
+      "B12": 0.4
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 0.8,
+      "potassium": 240,
+      "zinc": 1.5,
+      "magnesium": 18,
+      "sodium": 600
+    },
+    "is_verified": true
+  },
+  {
+    "name": "蛋挞",
+    "name_en": "Egg Tart",
+    "aliases": [
+      "葡挞",
+      "蛋塔"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 296,
+    "protein_per_100g": 5,
+    "carbs_per_100g": 30,
+    "fat_per_100g": 17,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 12,
+    "sodium_per_100g": 180,
+    "cholesterol_per_100g": 80,
+    "saturated_fat_per_100g": 8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 60,
+      "C": 0,
+      "D": 0.3,
+      "B1": 0.04,
+      "B2": 0.1,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 50,
+      "iron": 0.6,
+      "potassium": 80,
+      "zinc": 0.4,
+      "magnesium": 10,
+      "sodium": 180
+    },
+    "is_verified": true
+  },
+  {
+    "name": "方便面(泡,红烧牛肉)",
+    "name_en": "Instant Noodles (Braised Beef Flavor)",
+    "aliases": [
+      "泡面",
+      "方便面"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 440,
+    "protein_per_100g": 9,
+    "carbs_per_100g": 56,
+    "fat_per_100g": 20,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 3,
+    "sodium_per_100g": 2000,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.05,
+      "B2": 0.03,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 20,
+      "iron": 1,
+      "potassium": 100,
+      "zinc": 0.5,
+      "magnesium": 15,
+      "sodium": 2000
+    },
+    "is_verified": true
+  },
+  {
+    "name": "麻辣烫(荤素)",
+    "name_en": "Malatang (Mixed Meat & Veg)",
+    "aliases": [
+      "麻辣烫",
+      "麻辣串"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 120,
+    "protein_per_100g": 8,
+    "carbs_per_100g": 5,
+    "fat_per_100g": 7.5,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 1,
+    "sodium_per_100g": 800,
+    "cholesterol_per_100g": 40,
+    "saturated_fat_per_100g": 2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 50,
+      "C": 10,
+      "D": 0.1,
+      "B1": 0.05,
+      "B2": 0.08,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 50,
+      "iron": 1.5,
+      "potassium": 250,
+      "zinc": 1,
+      "magnesium": 20,
+      "sodium": 800
+    },
+    "is_verified": true
+  },
+  {
+    "name": "煎饼果子",
+    "name_en": "Jianbing (Chinese Crepe)",
+    "aliases": [
+      "煎饼",
+      "杂粮煎饼"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 215,
+    "protein_per_100g": 7,
+    "carbs_per_100g": 30,
+    "fat_per_100g": 7.5,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 2,
+    "sodium_per_100g": 550,
+    "cholesterol_per_100g": 50,
+    "saturated_fat_per_100g": 1.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 15,
+      "C": 2,
+      "D": 0.1,
+      "B1": 0.08,
+      "B2": 0.06,
+      "B12": 0.2
+    },
+    "minerals": {
+      "calcium": 40,
+      "iron": 1.2,
+      "potassium": 150,
+      "zinc": 0.8,
+      "magnesium": 25,
+      "sodium": 550
+    },
+    "is_verified": true
+  },
+  {
+    "name": "肉夹馍",
+    "name_en": "Roujiamo (Chinese Burger)",
+    "aliases": [
+      "肉夹馍",
+      "腊汁肉夹馍"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 228,
+    "protein_per_100g": 10,
+    "carbs_per_100g": 26,
+    "fat_per_100g": 9,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 480,
+    "cholesterol_per_100g": 38,
+    "saturated_fat_per_100g": 3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 1,
+      "D": 0.1,
+      "B1": 0.12,
+      "B2": 0.07,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 25,
+      "iron": 1.5,
+      "potassium": 200,
+      "zinc": 1.5,
+      "magnesium": 18,
+      "sodium": 480
+    },
+    "is_verified": true
+  },
+  {
+    "name": "凉皮",
+    "name_en": "Liangpi (Cold Noodle)",
+    "aliases": [
+      "凉皮",
+      "陕西凉皮"
+    ],
+    "category": "fast_food",
+    "calories_per_100g": 117,
+    "protein_per_100g": 3.5,
+    "carbs_per_100g": 22,
+    "fat_per_100g": 2,
+    "fiber_per_100g": 0.8,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 350,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 2,
+      "C": 3,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 0.8,
+      "potassium": 60,
+      "zinc": 0.3,
+      "magnesium": 12,
+      "sodium": 350
+    },
+    "is_verified": true
+  },
+  {
+    "name": "鸡汤(清)",
+    "name_en": "Chicken Soup (Clear)",
+    "aliases": [
+      "清鸡汤",
+      "老母鸡汤"
+    ],
+    "category": "soup",
+    "calories_per_100g": 31,
+    "protein_per_100g": 2.5,
+    "carbs_per_100g": 0.5,
+    "fat_per_100g": 2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.2,
+    "sodium_per_100g": 350,
+    "cholesterol_per_100g": 8,
+    "saturated_fat_per_100g": 0.5,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.05,
+      "B12": 0.2
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.3,
+      "potassium": 80,
+      "zinc": 0.3,
+      "magnesium": 5,
+      "sodium": 350
+    },
+    "is_verified": true
+  },
+  {
+    "name": "番茄蛋汤",
+    "name_en": "Tomato Egg Drop Soup",
+    "aliases": [
+      "西红柿蛋汤",
+      "番茄蛋花汤"
+    ],
+    "category": "soup",
+    "calories_per_100g": 28,
+    "protein_per_100g": 1.8,
+    "carbs_per_100g": 2.5,
+    "fat_per_100g": 1.2,
+    "fiber_per_100g": 0.3,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 300,
+    "cholesterol_per_100g": 40,
+    "saturated_fat_per_100g": 0.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 30,
+      "C": 8,
+      "D": 0.2,
+      "B1": 0.02,
+      "B2": 0.05,
+      "B12": 0.2
+    },
+    "minerals": {
+      "calcium": 12,
+      "iron": 0.4,
+      "potassium": 120,
+      "zinc": 0.2,
+      "magnesium": 6,
+      "sodium": 300
+    },
+    "is_verified": true
+  },
+  {
+    "name": "紫菜蛋花汤",
+    "name_en": "Seaweed & Egg Drop Soup",
+    "aliases": [
+      "紫菜汤",
+      "蛋花汤"
+    ],
+    "category": "soup",
+    "calories_per_100g": 18,
+    "protein_per_100g": 1.5,
+    "carbs_per_100g": 1,
+    "fat_per_100g": 0.8,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 0.2,
+    "sodium_per_100g": 350,
+    "cholesterol_per_100g": 35,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 50,
+      "C": 2,
+      "D": 0.1,
+      "B1": 0.02,
+      "B2": 0.08,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 30,
+      "iron": 2,
+      "potassium": 90,
+      "zinc": 0.3,
+      "magnesium": 10,
+      "sodium": 350
+    },
+    "is_verified": true
+  },
+  {
+    "name": "排骨汤",
+    "name_en": "Pork Rib Soup",
+    "aliases": [
+      "排骨汤",
+      "大骨汤"
+    ],
+    "category": "soup",
+    "calories_per_100g": 45,
+    "protein_per_100g": 3,
+    "carbs_per_100g": 0.8,
+    "fat_per_100g": 3.2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.2,
+    "sodium_per_100g": 380,
+    "cholesterol_per_100g": 20,
+    "saturated_fat_per_100g": 1.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 3,
+      "C": 0,
+      "D": 0.1,
+      "B1": 0.05,
+      "B2": 0.08,
+      "B12": 0.3
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 0.4,
+      "potassium": 100,
+      "zinc": 0.5,
+      "magnesium": 6,
+      "sodium": 380
+    },
+    "is_verified": true
+  },
+  {
+    "name": "酸辣汤",
+    "name_en": "Hot and Sour Soup",
+    "aliases": [
+      "酸辣汤",
+      "胡辣汤"
+    ],
+    "category": "soup",
+    "calories_per_100g": 36,
+    "protein_per_100g": 2,
+    "carbs_per_100g": 4,
+    "fat_per_100g": 1.2,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 0.8,
+    "sodium_per_100g": 500,
+    "cholesterol_per_100g": 10,
+    "saturated_fat_per_100g": 0.3,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 10,
+      "C": 3,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.03,
+      "B12": 0.1
+    },
+    "minerals": {
+      "calcium": 15,
+      "iron": 0.5,
+      "potassium": 100,
+      "zinc": 0.2,
+      "magnesium": 8,
+      "sodium": 500
+    },
+    "is_verified": true
+  },
+  {
+    "name": "味噌汤",
+    "name_en": "Miso Soup",
+    "aliases": [
+      "味噌汁",
+      "日式酱汤"
+    ],
+    "category": "soup",
+    "calories_per_100g": 34,
+    "protein_per_100g": 2.5,
+    "carbs_per_100g": 3.5,
+    "fat_per_100g": 1,
+    "fiber_per_100g": 0.5,
+    "sugar_per_100g": 1.5,
+    "sodium_per_100g": 600,
+    "cholesterol_per_100g": 0,
+    "saturated_fat_per_100g": 0.2,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 1,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.04,
+      "B12": 0.1
+    },
+    "minerals": {
+      "calcium": 20,
+      "iron": 0.5,
+      "potassium": 80,
+      "zinc": 0.2,
+      "magnesium": 10,
+      "sodium": 600
+    },
+    "is_verified": true
+  },
+  {
+    "name": "南瓜浓汤",
+    "name_en": "Pumpkin Cream Soup",
+    "aliases": [
+      "南瓜汤",
+      "奶油南瓜汤"
+    ],
+    "category": "soup",
+    "calories_per_100g": 45,
+    "protein_per_100g": 1,
+    "carbs_per_100g": 6,
+    "fat_per_100g": 2,
+    "fiber_per_100g": 1,
+    "sugar_per_100g": 3,
+    "sodium_per_100g": 250,
+    "cholesterol_per_100g": 5,
+    "saturated_fat_per_100g": 1,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 150,
+      "C": 4,
+      "D": 0.1,
+      "B1": 0.02,
+      "B2": 0.04,
+      "B12": 0.1
+    },
+    "minerals": {
+      "calcium": 25,
+      "iron": 0.3,
+      "potassium": 180,
+      "zinc": 0.2,
+      "magnesium": 10,
+      "sodium": 250
+    },
+    "is_verified": true
+  },
+  {
+    "name": "牛肉汤(清炖)",
+    "name_en": "Beef Soup (Clear Stew)",
+    "aliases": [
+      "清炖牛肉汤",
+      "牛骨汤"
+    ],
+    "category": "soup",
+    "calories_per_100g": 33,
+    "protein_per_100g": 3,
+    "carbs_per_100g": 0.3,
+    "fat_per_100g": 2,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.1,
+    "sodium_per_100g": 350,
+    "cholesterol_per_100g": 12,
+    "saturated_fat_per_100g": 0.8,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 5,
+      "C": 0,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.06,
+      "B12": 0.5
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 0.6,
+      "potassium": 120,
+      "zinc": 0.8,
+      "magnesium": 6,
+      "sodium": 350
+    },
+    "is_verified": true
+  },
+  {
+    "name": "银耳羹(甜)",
+    "name_en": "Tremella Soup (Sweet)",
+    "aliases": [
+      "银耳汤",
+      "银耳糖水"
+    ],
+    "category": "soup",
+    "calories_per_100g": 40,
+    "protein_per_100g": 0.5,
+    "carbs_per_100g": 9,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 2,
+    "sugar_per_100g": 7,
+    "sodium_per_100g": 10,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 0,
+      "C": 0,
+      "D": 0,
+      "B1": 0.01,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 8,
+      "iron": 0.4,
+      "potassium": 30,
+      "zinc": 0.1,
+      "magnesium": 5,
+      "sodium": 10
+    },
+    "is_verified": true
+  },
+  {
+    "name": "绿豆汤(甜)",
+    "name_en": "Mung Bean Soup (Sweet)",
+    "aliases": [
+      "绿豆沙",
+      "绿豆糖水"
+    ],
+    "category": "soup",
+    "calories_per_100g": 45,
+    "protein_per_100g": 2,
+    "carbs_per_100g": 9,
+    "fat_per_100g": 0.1,
+    "fiber_per_100g": 1.5,
+    "sugar_per_100g": 6,
+    "sodium_per_100g": 5,
+    "cholesterol_per_100g": null,
+    "saturated_fat_per_100g": 0,
+    "gi": null,
+    "gl": null,
+    "purine_per_100g": null,
+    "vitamins": {
+      "A": 1,
+      "C": 0,
+      "D": 0,
+      "B1": 0.02,
+      "B2": 0.02,
+      "B12": 0
+    },
+    "minerals": {
+      "calcium": 10,
+      "iron": 0.6,
+      "potassium": 120,
+      "zinc": 0.3,
+      "magnesium": 15,
+      "sodium": 5
+    },
+    "is_verified": true
+  }
+]
